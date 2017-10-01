@@ -9,7 +9,7 @@ body{
 .mainScreen{
     position: absolute;
     width: 100%;
-    height: 2000px;
+    height: 200rem;
     background-color: #C2C2CE;
     padding: 0px;
     margin: 0px;
@@ -17,26 +17,52 @@ body{
 
 .homeScreen{
     position: absolute;
-    height: 400px;
+    top: 0rem;
+    height: 78rem;
     width: 100%;
-    background-color: white;
-    border: 1px solid grey;
+    background-image: url(../images/584.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
     margin: 0;
     padding: 0;
     
 }
 
-.homeHeaderContainer{
-    position: relative;
+.homeHeader {
+    position: fixed;
+    top: 0rem;
     width: 100%;
-    height: 100px;
-    background-color: white;
-    border: 1px solid grey;
+    height: 8rem;
+    background-color:black;
+    opacity: 0.4;
 }
 
-.searchBarContaoner{
+.logoBox{
     position: relative;
-    height: 30px;
-    background-color:grey;
-
+    float: left;
+    width: 80%;
+    font-size: 2rem;
+    text-align: left;
+    padding-left: 1rem;
+    height: 8rem;
+    line-height: 8rem;
+    color: white;
 }
+
+.menuBox{
+    position: relative;
+    float: left;
+    width: 10%;
+    height: 8rem;
+    
+}
+
+.imageSliderBox{
+    position: absolute;
+    top: 10rem;
+    height: 60rem;
+    width: 100%;
+}
+
+
+
