@@ -1,16 +1,40 @@
 $( document ).ready( function() { 
 
-    console.log("js is running");
-
-    $(".menuBox").click(menuScreen);
 
 
  }) 
 
- function menuScreen() {
 
-    $(".menuScreen").toggleClass("displayBlock");
 
-     console.log("clicked");
+ $(window).scroll( function() {
 
- }
+    var wScroll = $(this).scrollTop();
+    //console.log(wScroll);
+
+
+    $('.contentScreen').css({
+        'transform': 'translate(0px , -'+ wScroll / 22 +'% )'
+    });
+
+    $('.topContentBox').css({
+        'transform': 'translate(0px , -'+ wScroll / 18 +'% )'
+    });
+
+    $('.mid-leftContentBox').css({
+        'transform': 'translate(0px , -'+ wScroll / 20 +'% )'
+    });
+
+    $('.mid-bottomContentBox').css({
+        'transform': 'translate(0px , -'+ wScroll / 8 +'% )'
+    });  
+
+    $('.bottom-rightContentBox').css({
+        'transform': 'translate(0px , -'+ wScroll / 20 +'% )'
+    });
+
+    $('.bottom-bottomContentBox').css({
+        'transform': 'translate(0px , -'+ wScroll / 8 +'% )'
+    });
+
+
+ });
