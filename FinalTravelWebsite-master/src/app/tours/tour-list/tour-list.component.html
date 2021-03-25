@@ -1,0 +1,24 @@
+<app-home></app-home>
+
+<div class="tourWrapper">
+  <div class="tourContent">
+    <div class="tourCategory">
+      <div class="tourLabel" value="All" (click)="selectedTour($event)" >All</div><div class="tourCount" >29</div>
+      <div class="tourLabel" routerLink="/package-luxurious" >Luxurious Escapes</div><div class="tourCount" >1</div>
+      <div class="tourLabel" value="Family" (click)="selectedTour($event)">HandCrafted Honeymoons</div><div class="tourCount" >21</div>
+      <div class="tourLabel" value="Adventure" (click)="selectedTour($event)">Adventure Holidays</div><div class="tourCount" >2</div>
+      <div class="tourLabel" value="Family" (click)="selectedTour($event)">Family Vacations</div><div class="tourCount" >21</div>
+      <div class="tourLabel" value="National" (click)="selectedTour($event)">Weekend Getaways</div><div class="tourCount" >13</div>
+      <div class="tourLabel" value="Backpacking" (click)="selectedTour($event)">Backpaking Trails</div><div class="tourCount" >4</div>
+    </div>
+    <div class="tourOption ">
+      <ng-container *ngFor='let data of DataArray.packages'>
+      <div class="tourDisplay" *ngIf="selectTour == 'All' || selectTour ==  data.packageType || selectTour == data.category " [style.background-image]="'url(' + data.bgImage + ')'">
+        <div class="tourName" (click)="getPackageName($event);" routerLink='/package-details'>{{data.packageName}}</div>
+      </div>
+    </ng-container>
+    </div>
+  </div>
+</div>
+
+<app-footer></app-footer>

@@ -1,0 +1,241 @@
+.tourWrapper{
+    grid-area: content;
+    background-color: #212322;
+    display: grid;
+    grid-template-columns: 2fr 8fr 2fr;
+    grid-auto-rows: 81rem;
+    grid-template-areas: 
+    " . top . ";
+}
+.topContainer {
+    display: grid;
+    grid-area: top;
+    grid-template-columns: repeat(12, 1fr);
+    grid-template-rows: repeat(12, 1fr);
+    margin-top: 3rem;
+    margin-bottom: 3rem;
+    background-color: #212322;
+}
+.topContainerWrapper {
+    background-color: transparent;
+    grid-column-start: 1;
+    grid-column-end: 13;
+    grid-row-start: 1;
+    grid-row-end: 13;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-template-rows: repeat(2, 1fr);
+    grid-gap: 3rem;
+    grid-template-areas: 
+    "lux honey adv"
+    "fam week back";
+}
+.luxuriousBox {
+    grid-column-start: 1;
+    grid-column-end: 2;
+    grid-row-start: 1;
+    grid-row-end: 2;
+    grid-area: lux;
+    background: url(../../../assets/images/resturent.jpg);
+    background-size: cover;
+    background-position: top;
+    padding: 8rem;
+    background-repeat: no-repeat;
+    box-shadow: 4px 4px 12px black;
+}
+.luxuriousOverlay {
+    grid-column-start: 1;
+    grid-column-end: 2;
+    grid-row-start: 1;
+    grid-row-end: 2;
+    grid-area: lux;
+    background-image: url(../../../assets/SVG/LuxuriousText.svg);
+    background-size: contain;
+    background-position: center;
+    background-repeat: no-repeat;
+    margin:4rem;
+    transition: all 400ms;
+}
+.honeymoonBox {
+    grid-column-start: 2;
+    grid-column-end: 3;
+    grid-row-start: 1;
+    grid-row-end: 2;
+    grid-area: honey;
+    background: url(../../../assets/images/sunset-1.jpg);
+    background-size: cover;
+    background-position: top;
+    padding: 8rem;
+    background-repeat: no-repeat;
+    box-shadow: 4px 4px 12px black;
+}
+.honeymoonOverlay {
+    grid-column-start: 2;
+    grid-column-end: 3;
+    grid-row-start: 1;
+    grid-row-end: 2;
+    grid-area: honey;
+    background-image: url(../../../assets/SVG/handcraftedText.svg);
+    background-size: contain;
+    background-position: center;
+    background-repeat: no-repeat;
+    margin:4rem;
+    transition: all 400ms;
+}
+.advantureBox {
+    grid-column-start: 3;
+    grid-column-end: 4;
+    grid-row-start: 1;
+    grid-row-end: 2;
+    grid-area: adv;
+    background:url(../../../assets/images/paragliding-2.jpg);
+    background-size: cover;
+    background-position: top;
+    padding: 8rem;
+    background-repeat: no-repeat;
+    box-shadow: 4px 4px 12px black;
+}
+.advantureOverlay {
+    grid-column-start: 3;
+    grid-column-end: 4;
+    grid-row-start: 1;
+    grid-row-end: 2;
+    grid-area: adv;
+    background-image: url(../../../assets/SVG/adventureText.svg);
+    background-size: contain;
+    background-position: center;
+    background-repeat: no-repeat;
+    margin:4rem;
+    transition: all 400ms;
+}
+ .familyBox {
+    grid-column-start: 1;
+    grid-column-end: 2;
+    grid-row-start: 2;
+    grid-row-end: 3;
+    grid-area: fam;
+    background: url(../../../assets/images/family.jpg);
+    background-size: cover;
+    background-position: top;
+    padding: 8rem;
+    background-repeat: no-repeat;
+    box-shadow: 4px 4px 12px black;
+}
+ .familyOverlay {
+    grid-column-start: 1;
+    grid-column-end: 2;
+    grid-row-start: 2;
+    grid-row-end: 3;
+    grid-area: fam;
+    background-image: url(../../../assets/SVG/familyGrey.svg);
+    background-size: contain;
+    background-position: center;
+    background-repeat: no-repeat;
+    margin:4rem;
+    transition: all 400ms;
+}
+.weekendBox {
+    grid-column-start: 2;
+    grid-column-end: 3;
+    grid-row-start: 2;
+    grid-row-end: 3;
+    grid-area: week;
+    background: url(../../../assets/images/bedroom.jpg);
+    background-size: cover;
+    background-position: top;
+    padding: 8rem;
+    background-repeat: no-repeat;
+    box-shadow: 4px 4px 12px black;
+}
+ .weekendOverlay {
+    grid-column-start: 2;
+    grid-column-end: 3;
+    grid-row-start: 2;
+    grid-row-end: 3;
+    grid-area: week;
+    background-image: url(../../../assets/SVG/weekend.svg);
+    background-size: contain;
+    background-position: center;
+    background-repeat: no-repeat;
+    margin:4rem;
+    transition: all 400ms;
+}
+ .backpackingBox {
+    grid-column-start: 3;
+    grid-column-end: 4;
+    grid-row-start: 2;
+    grid-row-end: 3;
+    grid-area: back;
+    background: url(../../../assets/images/journey.jpg);
+    background-size: cover;
+    background-position: top;
+    padding: 8rem;
+    background-repeat: no-repeat;
+    box-shadow: 4px 4px 12px black;
+}
+ .backpackingOverlay {
+    grid-column-start: 3;
+    grid-column-end: 4;
+    grid-row-start: 2;
+    grid-row-end: 3;
+    grid-area: back;
+    background-image: url(../../../assets/SVG/backpacking.svg);
+    background-size: contain;
+    background-position: center;
+    background-repeat: no-repeat;
+    margin:4rem;
+    transition: all 400ms;
+}
+
+
+
+ .luxuriousOverlay:hover, .honeymoonOverlay:hover, .advantureOverlay:hover, .familyOverlay:hover, .weekendOverlay:hover, .backpackingOverlay:hover {
+    transform: scale(1.1);
+}
+
+@media screen and (max-width:1440px) {
+    .tourWrapper{
+        grid-area: content;
+        background-color: #212322;
+        display: grid;
+        padding-left: 5rem;
+        padding-right: 5rem;
+        grid-template-columns: 1fr;
+        grid-auto-rows: 80rem;
+        grid-template-areas: 
+        "top";
+    }
+
+}
+
+@media only screen  and (min-width: 300px)  and (max-width: 812px) {
+    .tourWrapper{
+        grid-area: content;
+        background-color: #212322;
+        display: grid;
+        padding-left: 5rem;
+        padding-right: 5rem;
+        grid-template-columns: 1fr;
+        grid-auto-rows: 120rem;
+        grid-template-areas: 
+        "top";
+    }
+    .topContainerWrapper {
+        background-color: transparent;
+        grid-column-start: 1;
+        grid-column-end: 13;
+        grid-row-start: 1;
+        grid-row-end: 13;
+        display: grid;
+        grid-template-columns: 1fr;
+        grid-template-rows: repeat(9, 1fr);
+        grid-gap: 3rem;
+        grid-template-areas: 
+        "lux"
+        "honey"
+        "adv"
+        "fam"
+        " week "
+        "back";
+    }
+}

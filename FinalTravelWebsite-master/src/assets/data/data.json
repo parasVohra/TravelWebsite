@@ -1,0 +1,1731 @@
+{
+    "packages": [
+        {
+            "packageName": "Amazing Seychelles",
+            "bgImage":"../../../assets/images/Seychelles.jpg",
+            "pacakgeInfo":"",
+            "days": 6,
+            "nights": 5,
+            "dayInfo": [
+                {
+                    "name":"Arrive Mahe Island",
+                    "text":"On arrival you will be met and transferred to the hotel by standard coach. Check‐in and enjoy your day at leisure. Overnight in Mahe Island.",
+                    "tripDistace":"",
+                    "tripTime":"",
+                    "meals":""
+                },
+                {
+                    "name":"Mahe Island",
+                    "text":"Today, proceed for a city tour which begins with a transfer from the hotel for a stop in the colonial centre of \"the world's smallest capital\", Victoria. Highlights to visit are the court buildings, museum, post office, Clock‐tower [twin of the one outside London's Victoria Station]. A turn around the corner takes one to the 'Codevar' building where local crafts, including the renowned Kreol or [Creole Gold] are on display for sale. A walk across Albert Street leads one to the focal point of the town, its colourful market where stalls of fresh fish, tropical fruits & vegetables, herbs & spices, are displayed. This is followed by a drive across the Sans Soucis mountain pass, with a photo stop at the historical Mission Lodge, en‐route to a Creole restaurant for lunch. After lunch, the tour continues around the southern tip of the island to the restored colonial plantation of 'Jardin du Roi', which is steeped in the short history of the Creoles as well as the Georges family, whose family tree apparently carries a link to Louis XVII of France. A cold drink of home‐grown fruit welcomes visitors, before they tour the surrounding plantation of vegetables, exotic fruits, herbs and spices. Stop at the Craft Village on the way back to the hotel. Overnight in Mahe Island.",
+                    "tripDistace":"",
+                    "tripTime":"",
+                    "meals":""
+                },
+                {
+                    "name":"Mahe Island",
+                    "text":"After breakfast, your day is free at leisure. In the evening, experience the mellow Seychelles nightlife where you can visit casino, some local bars and fine restaurants offering unforgettable Creole and international cuisine. Overnight in Mahe Island.",
+                    "tripDistace":"",
+                    "tripTime":"",
+                    "meals":""
+                },
+                {
+                    "name":"Mahe Island - Praslin Island",
+                    "text":"After breakfast, get transferred to Praslin Island by boat. Praslin, the second largest island in Seychelles, lies approximately 1 hour by boat from Mahe. Check in to the hotel and enjoy your day at leisure. Overnight in Praslin Island.",
+                    "tripDistace":"",
+                    "tripTime":"",
+                    "meals":""
+                },
+                {
+                    "name":"Praslin Island",
+                    "text":"After breakfast, proceed on day tour of Praslin Island. Visit the Vallee- de- Mai, the only place on earth where the giant Coco- de- Mer nut grows in its natural state. A walk along the tended paths of this primeval forest, listening to the trill of the rare black parrot, transports one to the beginning of time; giving credence to the legends of this world Heritage site being the original Garden of Eden. The tour includes a visit to the famous Anse Lazio beach, before 30- minute crossing to La Diuge, during which one has a good chance to spot the Dolphins. Overnight in Praslin Island.",
+                    "tripDistace":"",
+                    "tripTime":"",
+                    "meals":""
+
+                },
+                {
+                    "name":"Depart Praslin Island – Mahe Island",
+                    "text":"After breakfast, check out of the hotel and transfer to International Airport in Mahe Island for your flight back home.",
+                    "tripDistace":"",
+                    "tripTime":"",
+                    "meals":""
+                }
+            ],
+            "packageType":"International",
+            "category":"Family"
+            
+        },
+        {
+            "packageName": "AMAZING AUSTRALIA ",
+            "bgImage":"../../../assets/images/Australia.jpg",
+            "pacakgeInfo":"WITH NATURALLY NEW ZEALAND",
+            "days": 16,
+            "nights": 15,
+            "dayInfo":
+            [
+                {
+                    "name":"GOLD COAST",
+                    "text":"Arrive Brisbane. Meet and greet by our local representative and transfer to Hotel. Transfer to Theme Capital of Australia Gold Coast.Gold Coast The Iconic Australian Holiday destination. With location that affords the city warm weather and boundless natural beauty,the Gold coast delivers variety of activates and experience in a style that is very much its own. Overnight at Hotel.",
+                    "tripDistace":"",
+                    "tripTime":"",
+                    "meals":""
+                },
+                {
+                    "name":"GOLD COAST",
+                    "text":"Morning depart for Sea World. Make contact with marine life wonders and experience a whole world of amazing rides,shows and attractions. Shark Bay is the World’s largest man-made lagoon system for shark and houses some of the most awe-inspiring of the species. Evening at leisure to explore Surfer’s Paradise...Its streets are filled with hundreds of restaurants, bars, nightclubs, duty free stores,day spas,art fashion houses and entertainment for all ages. Overnight at Hotel",
+                    "tripDistace":"",
+                    "tripTime":"",
+                    "meals":""
+                },
+                {
+                    "name":"GOLD COAST",
+                    "text":"After breakfast pick up for Australia’s favorite family theme park,Dream World Which offers a variety of rides,shows and attractions. The highlights include wild (and curiously mild) Tiger Island where White and golden Bengal and Sumatran Tigers and their handlers co-exist peacefully without the constraints of cages creating an exciting and unique experience for guests. Enjoy the Riverboat Cruise,Gold Rush Country,Koala and Kangaroo Sanctuary,with thrilling water slides and the Tower of Terror-the world’s tallest and fastest thrill ride ! Experience a new high with a ride on the ‘Wipe Out’ and ‘The Giant Drop’- the tallest free fall ride in the world. Overnight at Hotel.",
+                    "tripDistace":"",
+                    "tripTime":"",
+                    "meals":""
+                },
+                {
+                    "name":"BRISBANE - CAIRNS",
+                    "text":"Morning depart for your flight to Cairns. Arrive and transfer to Kuranda Village by taking sky Rail enjoying a bird’s eye view of pristine World Heritage Rainforest with stops at Barron Falls and Red peak station, explore the village including the famous Kuranda markets. Later enjoy Pamagiri show. Return to Cairns via Coach. Evening Free at leisure.Overnight at Hotel",
+                    "tripDistace":"",
+                    "tripTime":"",
+                    "meals":""
+                },
+                {
+                    "name":"CAIRNS",
+                    "text":"After breakfast transfers for full day Big Cat Green Island Cruise to beautiful Coral Island. One of the natural wonders of the world. You have five and a half hours on Green Island to take part in many activities or simply relax on the beach. Lunch Semi Submarine and Glass Bottom Boat Included. Evening at leisure. At coral Island you can opt for Parasailing,Helicopter,and other water activities as an optional activity.Overnight at Hotel.",
+                    "tripDistace":"",
+                    "tripTime":"",
+                    "meals":""
+                },
+                {
+                    "name":"CAIRNS - SYDNEY",
+                    "text":"After breakfast depart for your flight to Sydney-Australia’s Olympic City. Arrive Sydney and transfer to hotel. Set on the beautiful blue Sydney Harbour, this fast paced city of cosmopolitan character is one of the world’s most beautiful places. Colonial history,stunning architecture, superb waterways and friendly people epitomize the vibrancy of this spectacular city. Evening free time to stroll at various Cafes/Shops at Darling Harbour. Overnight at Hotel.",
+                    "tripDistace":"",
+                    "tripTime":"",
+                    "meals":""
+                },
+                {
+                    "name":"SYDNEY",
+                    "text":"After breakfast depart for Half day Sydney City Orientation tour. Explore the beautiful beaches and famous harbor sites of Sydney. Discover the tempo of the city as you explore Sydney, capture the beauty and lifestyle of the harbor city from specially selected vantage points. Continue Guided Tour to Opera House. Tour ends at Opera house. Return to hotel on your own. Afternoon at leisure. Evening enjoy spectacular view of Sydney Harbour with Indian dinner at Show Boat Dinner Cruise. (Transfer to Show boat not included)",
+                    "tripDistace":"",
+                    "tripTime":"",
+                    "meals":""
+                },
+                {
+                    "name":"SYDNEY- CHRISTCHURCH",
+                    "text":"Morning depart for your flight to Christchurch. Arrive Christchurch take brief city tour. Overnight at Hotel",
+                    "tripDistace":"",
+                    "tripTime":"",
+                    "meals":""
+                },
+                {
+                    "name":"CHRISTCHURCH - TWIZEL",
+                    "text":"After breakfast drive through beautiful scenery and get transferred to Twizel. Take a brief Stop at Lake Tekapo to view Church of Good Shepherd. On arrival rest of the day at leisure. You can opt for Helicopter ride here as an optional activity. Overnight at Hotel",
+                    "tripDistace":"282 Kms",
+                    "tripTime":"4 hours approx",
+                    "meals":""
+                },
+                {
+                    "name":"TWIZEL - QUEENSTOWN",
+                    "text":"After breakfast morning free time for optional Helicopter ride. Transfer to Queenstown. Overnight at Hotel",
+                    "tripDistace":"199 Kms",
+                    "tripTime":"3 hours approx",
+                    "meals":""
+                },
+                {
+                    "name":"QUEENSTOWN - MILFORD SOUND",
+                    "text":"Early morning depart for Full day tour to Milford Sound. Follow the southern arm of Lake Te Anau. Enter the Eglinton Valley and travel through the breath taking man made Homer Tunnel to reach Milford Sound. Enjoy a cruise on this world famous fiord, dominated by Mitre Peak and the cascading Bowen Falls. Return to Queenstown. Overnight at Hotel",
+                    "tripDistace":"307 Kms",
+                    "tripTime":"5 hours one way",
+                    "meals":""
+                },
+                {
+                    "name":"QUEENSTOWN",
+                    "text":"This morning after breakfast you will join a spectacular morning tour highlighting the ‘Must-Do’’ sights and attractions in Queenstown covering Bungy Jumping site, Arrow town. The picturesque town retain its old world charm through careful preservation of its colorful history and colonial architecture. Highlights are the Lakes District Museum, Remarkable Sweet Shop and the great shops and cafes in the high street, Gibbston Valley Winery. A chance to savour a selection of four locally produced wines and browse through the winery’s well stocked delicatessen and gift shop. Later take Skyline Gondola ride. The gondola ride takes you to Bob’s Peak perched high above Queenstown. From here get the best views over picturesque Queenstown, Lake Wakatipu and Remarkable Mountains spread before you in a magnificent panorama. Rest of the day explores the city on your own. Overnight at Hotel",
+                    "tripDistace":"",
+                    "tripTime":"",
+                    "meals":""
+                },
+                {
+                    "name":"QUEENSTOWN-ROTORUA",
+                    "text":"After breakfast, transfer to airport for flight to Rotorua. On arrival transfer to hotel. Evening at Leisure. Overnight at Hotel.",
+                    "tripDistace":"",
+                    "tripTime":"",
+                    "meals":""
+                },
+                {
+                    "name":"ROTORUA",
+                    "text":"Morning depart for Rotorua Sightseeing tour, visit Te Puia Thermal Reserve, famous Pohutu Geyser which erupts 10 to 25 times each day to heights of 16 to 20 meters. The reserve is also filled with boiling mud pools generated by the extreme thinness of the earth’s crust in the area. Follow your reserve experience with entry to the Maori Arts & Crafts Institute which is preserving the remarkable heritage of our Maori people and teaching the young crafts people the traditional arts of bone and greenstone (jade) carving and weaving etc. Also experience Maori Concert whereby you will be able to come near and feel the culture of New Zealand at its best. Agro dome Sheep and Farm show for a New Zealand farm show featuring sheep dog demonstration, cow milking and an introduction to the stars of our sheep industry, also visit Polynesian Spa, This your chance to relax and soak in the famous mineral waters at the lakeside Polynesian Spa pools. There is a hot mineral bathing pools for adults only due to the hot temperatures inside the pools. Overnight at Hotel.",
+                    "tripDistace":"",
+                    "tripTime":"",
+                    "meals":""
+                },
+                {
+                    "name":"ROTORUA-WAITOMO-AUCKLAND",
+                    "text":"After breakfast depart to Rotorua enroute be transferred through the ever changing scenery onto the Waitomo region where we stop at today’s highlight, your guided tour through the famous Waitomo Glowworm Caves which have spectacular limestone formations and the roof is studded with the lights of thousands of tiny Glowworm, including an underground boat ride viewing the millions of glow worms on the cavern roof. Auckland’ The City of Sails’ inspires both her inhabitants and her visitors with staggering location mild climate and wealth off thing to see and do. After Brief Auckland City Tour, Evening enjoy sky tower ride, Nothing compares to the 360 degrees views of Auckland City that you will get from the viewing platform once you have ridden up the Sky Tower lift. As you walk around taking in the views the free hand held audio guide gives a fascinating commentary on the sights and view from each window. For added excitement those who dare can stand on the glass floor panels and see the view down to street level. Overnight at Hotel.",
+                    "tripDistace":"235 Kms",
+                    "tripTime":"3 hours 30 min approx",
+                    "meals":""
+                },
+                {
+                    "name":"DEPARTURE",
+                    "text":"After your memorable moments in 100% Naturally New Zealand, Depart to the airport for return journey",
+                    "tripDistace":"",
+                    "tripTime":"",
+                    "meals":""
+                }
+               
+            ],
+
+            
+            "packageType":"International",
+            "category":"Family"
+        },
+        
+        {
+            "packageName": "Beautiful Bali",
+            "bgImage":"../../../assets/images/bali-indonesia-2.jpg",
+            "pacakgeInfo":"",
+            "days": 4,
+            "nights": 3,
+            "dayInfo":
+            [
+                {
+                    "name":"",
+                    "text":"Welcome to Bali! It is a tourist’s heaven, with its splendid beaches, friendly people, warm climate, cool mountain air and slow pace. Bali is a tropical Island in the Indonesian archipelago, is so picturesque and immaculate it could almost be a painted backdrop. Explore areas like Kuta. It’s glorious region in Bali and represents the heaven for tourists. Kuta fulfills all tourist’s requirements, like white sand, Coast with its perfect wave or the surfer, a lot of restaurants, cafeteria, and disco making nightlife very impressing. Kuta is located 11 kilometers side south Denpasar and easily reachable. The evening exploring on your own. Overnight at Hotel.",
+                    "tripDistace":"",
+                    "tripTime":"",
+                    "meals":""
+                },
+                {
+                    "name":"",
+                    "text":"Breakfast at hotel. This morning enjoy a Kinatamani tour. This tour takes you to Bali’s center of art & culture. Visit Ubud village, famous for its painter’s community. Drive through paddy fields, stop along the way at the handicraft villages, which produce the lovely handmade batiks, gracious gold, and silverware. Overnight at Hotel.",
+                    "tripDistace":"",
+                    "tripTime":"",
+                    "meals":""
+                },
+                {
+                    "name":"",
+                    "text":"Breakfast at Hotel. Enjoy Ubud and Tanah Lot Sunset Tour, Lombok Island or stay back at hotel in area like Nusa Dua & enjoy the beach and water sports activities. Nusa Dua – this area owns the most complete tourism facility in accommodation, athletic facility, beach and shopping centre. This area also own the beautiful coast and great for tourism and athletic.",
+                    "tripDistace":"",
+                    "tripTime":"",
+                    "meals":""
+                },
+                {
+                    "name":"",
+                    "text":"Breakfast at hotel. Today you will be transfer to Bali airport for your flight back home.",
+                    "tripDistace":"",
+                    "tripTime":"",
+                    "meals":""
+                }
+            ],
+            "packageType":"International",
+            "category":"Family"
+            
+        },
+        {
+            "packageName": "Bhutan",
+            "bgImage":"../../../assets/images/bhutan.jpg",
+            "pacakgeInfo":"",
+            "days": 6,
+            "nights": 5,
+            "dayInfo":
+            [
+                {
+                    "name":"ARRIVE PARO – TRANSFER TO THIMPHU",
+                    "text":"Welcome to Bhutan, Land of Thunder Dagon. Your journey begins flying on Druk Air and arriving Paro valley before noon. Try and get the left hand seat for better view of Himalayas). Descending into Paro Valley is an awe- inspiring beginning to an adventure of a lifetime with its transparent purity of the air and its absorbing serenity. Paro retains its bucolic nature in spite of the existence of development projects. Fields of green covers most of the valley floor while hamlets and isolated farms dot the landscape. At Paro International Airport, you will be greeted by your guide on exiting the arrival hall. You will take a leisurely drive for 2 hours towards the Capital of Bhutan, Thimphu. Thimphu is situated in a large valley traversed by the Wangchuk River and overshadowed by high peaks. En-route you will view Tachogang monastery, “the temple of excellent horse” built by Thangthong Gyalpo (Iron chain builder in Bhutan) before reaching to Chunzom (confluence). You will visit the Iron Chain Bridge which is one of the most visible ancient craft work in the middle Ages. You will continue our drive passing through several villages. Upon reaching Thimphu, you will be taken to the hotel located in the heart of the Thimphu City, which offers easy access to the commercial establishment You will check in at the hotel and have some lunch. Afternoon you will visit some cultural site and walk through the main street of Thimphu. Evening at leisure. Dinner and Overnight: Hotel",
+                    "tripDistace":"55 KMS",
+                    "tripTime":"",
+                    "meals":""
+                },
+                {
+                    "name":"THIMPHU VALLEY EXPLORATION",
+                    "text":"Today you will participate in a wide variety of interesting activities, which represent many diverse aspects of Bhutanese culture. Drive to visit Kuensel Kuensel Phodrang, the Buddha Statue, 169ft, symbolising indestructibility and one of the most religious monuments built in recent times. The view of Thimphu valley from the Kuenselphodrang is spectacular..Visit National Memorial Chorten, built in honour of third King of Bhutan, Jigme Dorji Wangchuck. This Chorten is centrally located and you will see an endless procession of elderly people circling around it. Drive to visit Simply Bhutan, an interactive 'living' museum developed for and by the youth of Bhutan through the Bhutan Youth Development Fund. Visitors learn about Bhutanese traditions and witness some of the live demonstrations. Lunch at one of the popular restaurant in Thimphu. Afternoon drive to visit Art and Craft School, vocational training Institute where the art of painting, woodcraft are taught to preserving the rich heritage and producing a skilled manpower. You will drive to visit Takin enclosure to see the National Animal of Bhutan followed by walk through the main street of Thimphu. Drive back to your hotel. Dinner and Overnight: Hotel",
+                    "tripDistace":"",
+                    "tripTime":"",
+                    "meals":""
+                },
+                {
+                    "name":"THIMPHU – VALLEY EXPLORATION",
+                    "text":"Morning drive towards north of Thimphu valley to Dodeyna, where you will see the stunning view of Cheri Monastery also called as the Chari Dorjeden monastery built in 1620 by Shabdrung. This monastery has been a major teaching and main retreat center for the monks. You will walk over the traditional bridge covered with the prayers and hike to Cheri Monastery. After visiting the monastery, descend to the base and drive back to hotel. Afternoon, drive to visit Textile Museum, which houses old Bhutanese Textiles and artifacts from the various regions and tribes of Bhutan. Late afternoon about 5pm, drive to visit Tashicho Dzong, the main secretariat which houses the summer residence of the central monk body and main seat of government. Its majestic architecture in finely balanced proportions is complemented by artistic decorations and paintings. Drive back to your hotel. Dinner and Overnight: Hotel",
+                    "tripDistace":"",
+                    "tripTime":"",
+                    "meals":""
+                },
+                {
+                    "name":"PUNAKHA – PARO",
+                    "text":"Transfer to Paro Depart to Paro and drive takes less than 2 hours. On arrival, you will have some lunch. Afternoon you will walk down to base and drive to visit Rinpung Dzong (Fortress on a heap of Jewels), which houses the administrative center of Paro valley and religious institute for monks. After visiting the Dzong, you will take the route that leads across Paro Chhu via a traditional covered bridge Nymezampa and pass several chorten towards the Paro town. Before reaching to town, you will have the opportunity to witness the archery; the national sport of Bhutan followed a short stroll in Paro town. Drive back to your hotel. Dinner and Overnight: Hotel",
+                    "tripDistace":"132 Kms",
+                    "tripTime":"",
+                    "meals":""
+                },
+                {
+                    "name":"PARO VALLEY EXPLORATION",
+                    "text":"OPTION1: Drive to the north of Paro valley to Ramthangkha and hike to visit Taktsang monastery, the trail climbs through beautiful pine forest, many of tress festooned with moss and an occasional grove of fluttering prayers flags. This monastery is one of the most venerated and sacred of all Buddhist sights around the world, the legend has it that Guru Rimpoche( founding saint of Buddhism) flew from eastern Bhutan on a tigress and meditated for three months. After visiting the monastery, walk down to cafeteria for lunch. Afternoon walk down to the base and drive to Paro town. Evening at leisure Dinner and Overnight: Hotel   OPTION2: Morning depart for a nature excursion drive to Chele pass (3988meters),highest motorable road in Bhutan, drive takes about 3 hours drive through the blue pine and rhododendrons forest. You will have breathtaking views of Mount Jhomolhari and Jichu Drakey on a clear day. Take a short hike along the ridge of Chelea pass to see the stunning views of Himalayan peaks and views of Ha and Paro Valleys. Picnic lunch on the pass. Afternoon drive back to your hotel. Evening at leisure. Dinner and Overnight: Hotel",
+                    "tripDistace":"",
+                    "tripTime":"",
+                    "meals":""
+                },
+                {
+                    "name":"PARO AIRPORT",
+                    "text":"Transfer to Paro Airport for your onward flight.",
+                    "tripDistace":"",
+                    "tripTime":"",
+                    "meals":""
+                }
+            ],
+            "packageType":"International",
+            "category":"Family"
+        },
+        {
+            "packageName": "Exotic Mauritius",
+            "bgImage":"../../../assets/images/mauritius-all-inclusive-holidays.jpg",
+            "pacakgeInfo":"",
+            "days": 7,
+            "nights": 6,
+            "dayInfo":
+            [
+                {
+                    "name":"Arrival in Mauritius",
+                    "text":"Depart India and arrive in Mauritius where you will be welcomed by our representative and later escorted to your hotel by seat-in-coach. Check- in, relax and spend the rest of the day at leisure. Dinner will be served in one of the restaurants at the hotel and stay overnight at hotel.",
+                    "tripDistace":"",
+                    "tripTime":"",
+                    "meals":""
+                },
+                {
+                    "name":"Mauritius- Full day excursion to Ile Aux Cerfs",
+                    "text":"After breakfast, depart in a coach for a full-day excursion to Ile Aux Cerfs, an emerald lagoon on the east coast. The island is known for its sandy beaches, beautiful lagoon and a wide range of facilities and activities. A swim and snorkeling in the lagoon are perfect ways to spend a day. You can also enjoy optional water sports such as banana boat ride, water skiing, parasailing and undersea walk at an additional cost. Return to the hotel in the evening. Dinner will be served in one of the restaurants at the hotel and stay overnight at hotel",
+                    "tripDistace":"",
+                    "tripTime":"",
+                    "meals":""
+                },
+                {
+                    "name":"Mauritius- Full day North Island Tour",
+                    "text":"Post breakfast proceed for a full-day North Island tour Visit the capital city- Port Louis / view of the Citadel/ Champ de Mars/ Government House/ Harbour /Shopping in the local market. Drive through the city centre to reach \"Caudan Waterfront\" a commercial landmark of shops, restaurants, Craft market etc. Return back have dinner and stay remains at the hotel",
+                    "tripDistace":"",
+                    "tripTime":"",
+                    "meals":""
+                },
+                {
+                    "name":"Mauritius - Day free at leisure",
+                    "text":"Post a filling breakfast, enjoy the day at leisure or take an optional full-day Catamaran cruise. Dinner will be served in one of the restaurants at the hotel and stay remains at the hotel",
+                    "tripDistace":"",
+                    "tripTime":"",
+                    "meals":""
+                },
+                {
+                    "name":"Mauritius -Full day South Island Tour",
+                    "text":"After breakfast, proceed for a full-day South Island tour. Visit the to the Glass Gallery shop, then proceed to Curepipe to the spectacular crater \"Trou aux Cerfs\" where one enjoys the extensive view of the island. Few minutes away there is Floreal a destination which includes a textile museum/ shopping centers/ café/ 12 duty free boutiques/Ship model factory-shops. Then you proceed to discover the unspoilt beauty of the forest where flows a sacred lake, the \"Grand Bassin\" (Ganga Talao) a place for pilgrimage. Enjoy the magnificent view of Black River Gorge on the way to Chamarel, the place where the seven colour earth is found. Return back to hotel have dinner and overnight stay at the hotel",
+                    "tripDistace":"",
+                    "tripTime":"",
+                    "meals":""
+                },
+                {
+                    "name":"Mauritius - Day free at leisure",
+                    "text":"After breakfast the day is free at leisure.You can enjoy the day on your own or relax at the beach.Dinner and stay at hotel",
+                    "tripDistace":"",
+                    "tripTime":"",
+                    "meals":""
+                },
+                {
+                    "name":"Depart from Mauritius",
+                    "text":"After breakfast, it is time to bid goodbye to Mauritius and check-out of the hotel to get transferred to the airport to board your flight back to India",
+                    "tripDistace":"",
+                    "tripTime":"",
+                    "meals":""
+                }
+            ],
+            "packageType":"International",
+            "category":"Family"
+        },
+        {
+            "packageName": "Grand Philippines",
+            "bgImage":"../../../assets/images/Philippines.jpg",
+            "pacakgeInfo":"",
+            "days": 7,
+            "nights": 6,
+            "dayInfo":
+            [
+                {
+                    "name":"ARRIVAL IN MANILA",
+                    "text":"Welcome to Manila one of the oldest cities in Asia and capital of Philippines with contradictions and surprises around every corner, Manila is packed full of things to see, do, taste and experience. Upon arrival meet our representative at Manila Airport and take a transfer to your hotel by coach, check-in at the hotel & rest of the day free at leisure. Stay overnight at Hotel in Manila. ",
+                    "tripDistace":"",
+                    "tripTime":"",
+                    "meals":""
+                },
+                {
+                    "name":"MANILA",
+                    "text":"After breakfast at the hotel, proceed with the tour to Pagsanjan. Pagsanjan Falls is one of the most Famous waterfalls in the Philippines. Located in the province of Laguna, the falls is one of the majortourist attractions in the region. The falls are reached by a river trip on dugout canoe, known locallyas shooting the rapids, originating from the municipality of Pagsanjan. Stay overnight at Hotel in Manila",
+                    "tripDistace":"",
+                    "tripTime":"",
+                    "meals":"Breakfast & Lunch"
+                },
+                {
+                    "name":"MANILA – BORACAY",
+                    "text":"After breakfast at the hotel; check-out and proceed to your Manila City Tour. The interesting highlights are Fort Santiago, built in 1663 inside the older Walled Cityof Intramuros (1591 – 1593). The Rizal Park and rolling tour to the reclaimed area of the Cultural CenterComplex; then to the Central Business District of Makati. A visit to a curio of Filipino crafts is a mustfor a change in your shopping environment before driving back to the hotel.Have lunch at the local restaurant before you transfer-out for your domestic flight going to Boracay.The palm-studded Island of Boracay – with its white, talcum-fine beach, balmy weather, and warm, crystallinewaters – is like a hypnotic magnet. The best part of the island is the 4-kilometer white beach hailedas the “finest beach in the World”. Stay overnight at Hotel in Boracay",
+                    "tripDistace":"",
+                    "tripTime":"",
+                    "meals":"Breakfast & Lunch"
+                },
+                {
+                    "name":"BORACAY",
+                    "text":"Have breakfast in the resort and proceed with your Island Hopping Tour; it is one of the must-do activities in Boracay. A 4-hour boat tour around Boracay beaches (Ilig-iligan Beach & Puka Beach) in an outrigger boat/banca, snorkeling at Tulubhan and Tambisaan Reef, visit the Crocodile Island, Crystal Cove Island and explore the two caves and beautiful scenery and relax on the hut/cottages. Have lunch before going back. Stay overnight at Hotel in Boracay.",
+                    "tripDistace":"",
+                    "tripTime":"",
+                    "meals":"Breakfast & Lunch"
+                },
+                {
+                    "name":"BORACAY – CEBU",
+                    "text":"After breakfast check-out from the hotel and transfer-out for your domestic flight going to Cebu. Cebu, the “Queen City of the South”, the second most significant metropolitan center in the Philippines and is also known as the oldest city established by the Spaniards in the country. Cebu is known for its sumptuous food and delicacies as well as its vibrant beaches and nature activities. Stay overnight at the Hotel",
+                    "tripDistace":"",
+                    "tripTime":"",
+                    "meals":"Breakfast"
+                },
+                {
+                    "name":"CEBU",
+                    "text":"Have breakfast and proceed with your Cebu City Tour – Discover the charm of old Cebu in major landmarks; Fort San Pedro, Magellan Cross, Basilica Minore of the Child Jesus, the tour proceeds down the South Road properties and continue to uptown passing by the city's major universities & schools. Next stop will be on Taoist Temple on a scenic hillside in Beverly Hills. The tour moves to Asia town IT Park & ends in Ayala Business Park. Stay overnight at the Hotel",
+                    "tripDistace":"",
+                    "tripTime":"",
+                    "meals":"Breakfast"
+                },
+                {
+                    "name":"DEPARTURE FROM CEBU",
+                    "text":"Breakfast at the hotel, a day at leisure to do some last minute shopping before we take to you to the airport for your flight home",
+                    "tripDistace":"",
+                    "tripTime":"",
+                    "meals":"Breakfast"
+                }
+            ],
+            "packageType":"International",
+            "category":"Family"
+        },
+        {
+            "packageName": "HONEYMOONERS DELIGHT ",
+            "bgImage":"../../../assets/images/sunset-1.jpg",
+            "pacakgeInfo":"GOLD COAST - TANGALOOMA - CAIRNS - SYDNEY",
+            "days": 12,
+            "nights": 11,
+            "dayInfo":
+            [
+                {
+                    "name":"GOLD COAST",
+                    "text":"Arrive Brisbane. Meet and greet by our local representative and transfer to Hotel.Transfer to Theme Capital of Australia Gold Coast.Gold Coast The Iconic Australian Holiday destination. With location that affords the city warm weather and boundless natural beauty,the Gold coast delivers variety of activates and experience in a style that is very much its own. Overnight at Hotel.",
+                    "tripDistace":"",
+                    "tripTime":"",
+                    "meals":""
+                },
+                {
+                    "name":"GOLD COAST",
+                    "text":"After breakfast pickup for Dream World. Enjoy a fun-filled day at Australia’s favorite family theme park,Dream World,Which offers a variety of rides,shows and attractions. The highlights include wild (and curiously mild) Tiger Island where White and golden Bengal and Sumatran Tigers and their handlers co-exist peacefully without the constraints of cages creating an exciting and unique experience for guests. Enjoy the Riverboat Cruise,Gold Rush Country,Koala and Kangaroo Sanctuary,with thrilling water slides and the Tower of Terror-the world’s tallest and fastest thrill ride ! Experience a new high with a ride on the ‘Wipe Out’ and ‘The Giant Drop’- the tallest free fall ride in the world. Evening visit Q1 observation dack that your self with coffee & cake. Overnight at Hotel.",
+                    "tripDistace":"",
+                    "tripTime":"",
+                    "meals":""
+                },
+                {
+                    "name":"GOLD COAST",
+                    "text":"After breakfast depart for Movie World. Thrill yourself full day at Movie world.From heart-thumping thrill rides like Lethal Weapons to the colorful but gentle rides in Looney Tunes Village to the laugh-a-minute antics of the police Academy Stunt Show. Evening at leisure. You can always utilize your free time by doing optional activities like Infinity,Hot Air Ballooning, Jet Boating, Duck tour,etc. Overnight at Hotel.",
+                    "tripDistace":"",
+                    "tripTime":"",
+                    "meals":""
+                },
+                {
+                    "name":"GOLDCOAST TANGALOOMA",
+                    "text":"After breakfast get transferred to Brisbane Holt street Wharf to catch the ferry (Cantamaran) for Tangalooma Island resort. The star attraction is undoubtedly the memorable experience of hand feeding a pod of wild bottlenose dolphins. All guests have the opportunity to wade into the water and feed these playful creatures. You also have the opportunity to participate in a wide range of tours and activities including: Desert safari tour with sand tobogganing, ATV quad bike tours,whale watching cruise (June to October), Dugong Eco Cruise,Jet ski tours,four wheel drive tours,parasailing,snorkelling,helicopter flight and much more.Overnight at Hotel.",
+                    "tripDistace":"",
+                    "tripTime":"",
+                    "meals":""
+                },
+                {
+                    "name":"TANGALOOMA",
+                    "text":"After breakfast day free for leisure or other optional activity by visit the Tangalooma Martine Education and Conservation Centre to gain an insight into the marine life that call Moreton Bay home,or Participate in one of their educational guided tours accompanied by Marine Biologist.Overnight at Hotel",
+                    "tripDistace":"",
+                    "tripTime":"",
+                    "meals":""
+                },
+                {
+                    "name":"BRISBANE - CAIRNS",
+                    "text":"After breakfast depart for your flight to Cairns.Arrive and transfer to Hotel. Experience Tropical North Queensland to experience nature at it’s finest! Enjoy lushness of rainforest,and beauty of Coral Coast.Day at leisure or explore the Night Market on your own. Overnight at Hotel.",
+                    "tripDistace":"",
+                    "tripTime":"",
+                    "meals":""
+                },
+                {
+                    "name":"CAIRNS",
+                    "text":"After breakfast early morning take optional opportunity to get Down to Earth,from the sky Hot Air Ballooning with Champagne breakfast. Later depart for tour to Kuranda Rainforest. Travel upto Kuranda village by scenic Rail and explore the village including the famous Kuranda markets. Return to Cairns via Sky Rail; enjoy a bird’s eye view of pristine world Heritage Rainforest with stops at Barron Falls and Red Peak stations. Later enjoy, Tjapukai Aboriginal show. Learn to play the didgeridoo,discover the medicinal values of bush tucker, throw a spear and enjoy professional theatre incorporating traditional Aboriginal dance, fire making and storytelling. Evening return transfer to Hotel. Evening free at leisure. Overnight at Hotel.",
+                    "tripDistace":"",
+                    "tripTime":"",
+                    "meals":""
+                },
+                {
+                    "name":"CAIRNS",
+                    "text":"After breakfast transfers for full day Big Cat Green Island Cruise to beautiful Coral Island. One of the natural wonders of the world. You have five and a half hours on Green Island to take part in many activities or simply relax on the beach. Lunch Semi Submarine and Glass Bottom Boat Included. Evening at leisure. At coral Island you can opt for Parasailing,Helicopter,and other water activities as an optional activity.Overnight at Hotel.",
+                    "tripDistace":"",
+                    "tripTime":"",
+                    "meals":""
+                },
+                {
+                    "name":"SYDNEY",
+                    "text":"After breakfast depart for your flight to Sydney-Australia’s Olympic City. Arrive Sydney and transfer to hotel. Set on the beautiful blue Sydney Harbour, this fast paced city of cosmopolitan character is one of the world’s most beautiful places. Colonial history,stunning architecture, superb waterways and friendly people epitomize the vibrancy of this spectacular city. Evening free time to stroll at various Cafes/Shops at Darling Harbour. Overnight at Hotel.",
+                    "tripDistace":"",
+                    "tripTime":"",
+                    "meals":""
+                },
+                {
+                    "name":"SYDNEY",
+                    "text":"After breakfast depart for Half day Sydney City Orientation tour. Explore the beautiful beaches and famous harbor sites of Sydney. Discover the tempo of the city as you explore Sydney, capture the beauty and lifestyle of the harbor city from specially selected vantage points. Continue Guided Tour to Opera House. Tour ends at Opera house. Return to hotel on your own. Afternoon at leisure. Evening enjoy spectacular view of Sydney Harbour with Indian dinner at Show Boat Dinner Cruise. (Transfer to Show boat not included)",
+                    "tripDistace":"",
+                    "tripTime":"",
+                    "meals":""
+                },
+                {
+                    "name":"SYDNEY",
+                    "text":"After breakfast explore Sydney with Sydney Attraction Pass including entry to Sydney Aquarium,Sydney Tower, Sydney wildlife with one day unlimited ride of Monorail.   Optional activities to choose from Full day Blue Mountain or activity like Bridge Climbing,Jet Boating,Helicopter ride, Day trip to Port Stephens Dolphin Watch cruise with lunch, Hunter valley, Canberra tour,etc. Overnight at Hotel.",
+                    "tripDistace":"",
+                    "tripTime":"",
+                    "meals":""
+                },
+                {
+                    "name":"BACK HOME",
+                    "text":"After breakfast transfer to Airport for your flight back home",
+                    "tripDistace":"",
+                    "tripTime":"",
+                    "meals":""
+                }
+            ],
+            "packageType":"International",
+            "category":"Family"
+        },
+        {
+            "packageName": "Magical Malaysia",
+            "bgImage":"../../../assets/images/Malaysia.jpg",
+            "pacakgeInfo":"",
+            "days": 5,
+            "nights": 4,
+            "dayInfo":
+            [
+                {
+                    "name":"Kuala Lumpur",
+                    "text":"Arrive at Kuala Lumpur Airport. Meet our local representative who will assist you and transfer you to your hotel. In the evening we recommend you to enjoy KL Tower. Overnight at Hotel.",
+                    "tripDistace":"",
+                    "tripTime":"",
+                    "meals":""
+                },
+                {
+                    "name":"Kuala Lumpur",
+                    "text":"After breakfast enjoy panoramic city tour of Kuala Lumpur. See the Petrona’s Twin Tower, King’s Palace, National Mosque, National Monument, and National Museum & Sultan Abdul Samad Building. The afternoon is free for you to explore Kuala Lumpur on your own. Overnight at Hotel",
+                    "tripDistace":"",
+                    "tripTime":"",
+                    "meals":""
+                },
+                {
+                    "name":"Genting",
+                    "text":"After breakfast enjoy a relaxing drive to Genting Highlands, a resort entertainment city built on the mountains. The day is free for you to explore the resort on your own. Visit the Genting Highlands Entertainment theatre for a dazzling show. Late night, try your luck at the casino and come out a winner. Overnight at Hotel",
+                    "tripDistace":"",
+                    "tripTime":"",
+                    "meals":""
+                },
+                {
+                    "name":"Genting",
+                    "text":"After breakfast day is free to enjoy various activities at your own pace. Enjoy unlimited rides at the outdoor theme park in the complex amusement center, enjoy boat ride, a mini train ride, have fun on a bumper cars and roller coaster. Overnight at Hotel",
+                    "tripDistace":"",
+                    "tripTime":"",
+                    "meals":""
+                },
+                {
+                    "name":"Back Home",
+                    "text":"Today transfer to airport for your flight back home with lovely memories of your holidays.",
+                    "tripDistace":"",
+                    "tripTime":"",
+                    "meals":""
+                }
+            ],
+            "packageType":"International",
+            "category":"Family"
+        },
+        {
+            "packageName": "Marvelous Singapore",
+            "bgImage":"../../../assets/images/singapore-166544.jpg",
+            "pacakgeInfo":"",
+            "days": 5,
+            "nights": 4,
+            "dayInfo":
+            [
+                {
+                    "name":"Singapore",
+                    "text":"Arrive at Singapore. Meet our local representative who will assist and transfer you to your hotel.Evening depart for Night Safari tour – The unique experience of exploring wildlife in a tropical jungle At night in tram ride. Overnight at hotel",
+                    "tripDistace":"",
+                    "tripTime":"",
+                    "meals":""
+                },
+                {
+                    "name":"Singapore",
+                    "text":"After breakfast enjoy city orientation tour of Singapore with Singapore flyer. Afternoon depart for Sentosa Island tour including, Dolphin Lagoon, Underwater World, and song of the Sea and desperados. Overnight at Hotel",
+                    "tripDistace":"",
+                    "tripTime":"",
+                    "meals":""
+                },
+                {
+                    "name":"Singapore",
+                    "text":"After breakfast go to resort World and can enjoy the tour of universal Studio, Enter the thrilling world of movie magic as you “Ride the Movies” on roller coaster and other movie themed attractions. Be dazzled and delighted by an immersive entertainment experience that brings the silver screen to life. Overnight at Hotel",
+                    "tripDistace":"",
+                    "tripTime":"",
+                    "meals":""
+                },
+                {
+                    "name":"Singapore",
+                    "text":"After Breakfast go to Jurong Bird Park. After noon free for shopping. Evening opt for Marina Bay Sands sky park where you can feast your eyes on the unforgettable panorama view of Singapore. And enjoy Casino at marina bay sands. Overnight at Hotel",
+                    "tripDistace":"",
+                    "tripTime":"",
+                    "meals":""
+                },
+                {
+                    "name":"Singapore",
+                    "text":"Today Transfer to airport for your flight back home with lovely memories of your holidays",
+                    "tripDistace":"",
+                    "tripTime":"",
+                    "meals":""
+                }
+            ],
+            "packageType":"International",
+            "category":"Family"
+        },
+        {
+            "packageName": "Naturally New Zealand",
+            "bgImage":"../../../assets/images/new-zealand.jpg",
+            "pacakgeInfo":"",
+            "days": 11,
+            "nights": 10,
+            "dayInfo":
+            [
+                {
+                    "name":"AUCKLAND",
+                    "text":"On arrival in Auckland get transfer to hotel.Auckland’ The City of Sails’ inspire both her inhabitants and her visitor with staggering location mild climate and wealth of thing to see and do.Evening at leisure.Overnight at Hotel",
+                    "tripDistace":"",
+                    "tripTime":"",
+                    "meals":""
+                },
+                {
+                    "name":"AUCKLAND - ROTORUA",
+                    "text":"After breakfast depart for brief Auckland city orientation tour.After lunch depart to Rotorua enroute visit Hobbiton Movie set & Farm tour. Visit the remnants of the original Hobbiton village set from The Lord of the Rings movie trilogy in a fascinating two-hour guided tour.The Hobbiton movie set has been returned to its natural state.There are spectacular views across to the Kaimai Ranges from the rolling green hills of the movie set,which is still working sheep and beef farm.As the Hobbiton Movie Set is located on a real New Zealand farm,and unforgettable Sheep Farm Experience. On arrival in Rotorua check-in at the hotel.Overnight at Hotel",
+                    "tripDistace":"235 Kms",
+                    "tripTime":"3 hours 30 mins approx",
+                    "meals":""
+                },
+                {
+                    "name":"ROTORUA",
+                    "text":"Morning depart for Rotorua Sightseeing tour,visit Te Puia Thermal Reserve, famous Pohutu Geyser which erupts 10 to 25 times each day to heights of 16 to 20 meters. The reserve is also filled with boiling mud pools generated by the extreme thinness of the earth’s crust in the area. Follow your reserve experience with entry to the Maori Arts & Crafts Institute which is preserving the remarkable heritage of our Maori people and teaching the young crafts people the traditional arts of bone and greenstone (jade) carving and weaving etc. Also experience Maori Concert whereby you will be able to come near and feel the culture of New Zealand at its best. Agro dome Sheep and Farm show for a New Zealand farm show featuring sheep dog demonstration,cow milking and an introduction to the stars of our sheep industry,evening visit Polynesian Spa,This is your chance to relax and soak in the famous mineral waters at the lakeside Polynesian Spa pools. There is a hot mineral bathing pools for adults only due to the hot temperatures inside the pools.Overnight at Hotel",
+                    "tripDistace":"",
+                    "tripTime":"",
+                    "meals":""
+                },
+                {
+                    "name":"ROTORUA - WAITOMO-AUCKLAND",
+                    "text":"Morning depart for Auckland by Coach. Enroute be transferred through the ever changing scenery onto the Waitomo region where we stop at todays highlight, your guided tour through the famous Waitomo Glowworm Caves which have spectacular limestone formations and roof is studded with the lights of thousands of tiny Glowworms,including an underground boat ride viewing the millions of glow worms on the cavern roof.After that we will proceed to hotel and check in.Evening enjoy Sky tower ride, Nothing compares to the 360 degrees views of Auckland City that you will get from the viewing platform once you have ridden up the Sky Tower lift.As you walk around taking in the views the free hand held audio guide gives a fascinating commentary on the sights and view from each window. For added excitement those who dare can stand on the glass floor panels and see the view down to street level at an optional coast.Overnight at Hotel",
+                    "tripDistace":"360 Kms",
+                    "tripTime":"5.30 hrs approx",
+                    "meals":""
+                },
+                {
+                    "name":"AUCKLAND - QUEENSTOWN",
+                    "text":"After breakfast, transfer to airport for flight to Queenstown. On arrival transfer to hotel.Evening at Leisure.Overnight at Hotel",
+                    "tripDistace":"",
+                    "tripTime":"",
+                    "meals":""
+                },
+                {
+                    "name":"QUEENSTOWN",
+                    "text":"Early morning depart for Full day tour to Milford Sound.Follow the southern arm of Lake Wakatipu to Lumsden, and onward to Lake Te Anau. Enter the Eglinton Valley and travel through the breath taking man made Homer Tunnel to reach Milford Sound.Enjoy a cruise on this world famous fiord,dominated by Mitre peak and the cascading Bowen Falls. Return to Queenstown. Overnight at Hotel",
+                    "tripDistace":"307 Kms",
+                    "tripTime":"5 hrs one way",
+                    "meals":""
+                },
+                {
+                    "name":"QUEENSTOWN",
+                    "text":"This morning after breakfast you will join a spectacular morning tour highlighting the ‘Must-Do” sights and attractions in Queenstown covering Bungy Jumping site, Arrow town- The picturesque town retains its old world charm through careful preservation of its colourful history and colonial style architecture.Highlights are the Lakes District Museum,Remarkables Sweet Shop and the great shops and cafes in the high street,Gibbston Valley Winery. A chance to savour a selection of two locally produced wines and browse through the winery’s well stocked delicatessen and gift shop, Later continue for Skyline Gondola ride. The gondola ride takes you to Bob’s peak perched high above Queenstown. From here get the best views over picturesque Queenstown, Lake Wakatipu and Remarkable Mountains spread before you in a magnificent panorama. Rest of day explores the city own your own.Overnight at Hotel",
+                    "tripDistace":"",
+                    "tripTime":"",
+                    "meals":""
+                },
+                {
+                    "name":"Queenstown-Wanaka-Queenstown",
+                    "text":"After Breakfast at hotel,day trip to Wanaka including Wanaka Puzzling world.Puzzling World offers the world’s first “3-D” Great Maze incredible illusions Rooms,a puzzle Centre/Cafe,large Gift Shop,eccentric architecture and the intriguing Challenge,it is most photographed attraction in NZ,Mrs. Jones Fruit stall-whereby you can see different fresh fruits in Kiwi Way Toy Museum. This fascinating collection houses one of the largest private collections in the world. A nostalgic selection of toys has something to fascinate the child in everyone,such as clockwork and battery powered toys,porcelain dolls,teddy bears,pedal cars and money boxes.Overnight at Hotel",
+                    "tripDistace":"212 Kms",
+                    "tripTime":"3.5 hours drive approx",
+                    "meals":""
+                },
+                {
+                    "name":"QUEENSTOWN-MOUNT COOK",
+                    "text":"After breakfast drive through beautiful scenery and get transferred to Mt.Cook.Take a brief stop at Lake Tekapo to view Church of Good Shepherd.On arrival rest of the day at leisure.Overnight at Hotel",
+                    "tripDistace":"199Kms",
+                    "tripTime":"3 hrs approx",
+                    "meals":""
+                },
+                {
+                    "name":"MOUNT COOK - CHRISTCHURCH",
+                    "text":"After breakfast depart for Christchurch. Visit International Antarctic Centre. One of New Zealand’s best tourist attractions, it provide visitors of all ages with an Antarctica.Also enjoy Hagglund & 4D Theatre. Overnight at Hotel",
+                    "tripDistace":"280 Kms",
+                    "tripTime":"3 hours 35 mins approx",
+                    "meals":""
+                },
+                {
+                    "name":"Departure",
+                    "text":"After your memorable moments in 100% Naturally New Zealand,depart to the airport for return journey",
+                    "tripDistace":"",
+                    "tripTime":"",
+                    "meals":""
+                }
+            ],
+            "packageType":"International",
+            "category":"Family"
+        },
+        {
+            "packageName": "Northern of Vietnam",
+            "bgImage":"../../../assets/images/night.jpg",
+            "pacakgeInfo":"",
+            "days": 6,
+            "nights": 5,
+            "dayInfo":
+            [
+                {
+                    "name":"HA NOI ARRIVAL",
+                    "text":"Arrival Hanoi airport, warm welcomed by our guide & driver then transfer to the city. Hanoi or “River-bound City” as its name literally means is Vietnam’s capital with a thousand-year-old history dating back to 1010. The city’s fascinating beauty which is characterized by unique cultural relics, ancient streets of antique houses, elegant French colonial buildings, tree-lined boulevards and romantic lakes has made it one of the most charming cities of Asia",
+                    "tripDistace":"",
+                    "tripTime":"",
+                    "meals":""
+                },
+                {
+                    "name":"HANOI FULL DAY CITY TOUR (B)",
+                    "text":"Morning, take a full day city tour beginning with Ho Chi Minh Complex  which features the life of Ho Chi Minh, the nation’s founder. At the complex, visit the Ho Chi Minh Mausoleum, where the nation’s founder’s body is preserved (closed on Monday, Friday and through October - November), the colonial Presidential Palace, originally the French Governor Office and a fine example of French architecture in Hanoi, and the rural style Ho Chi Minh’s house on stilts where Ho Chi Minh lived and worked. Stop by one of Hanoi’s icons, the One Pillar Pagoda, built in the 11th Century in dedication to Buddha of Compassion and reminiscent of a lotus blossom rising from a pond. Continue to the Temple of Literature, known as the first university of Vietnam built in 1070 by the Ly Dynasty to honor Confucius, sages and outstanding Vietnamese scholars.    Afternoon, Go to Hoan Kiem Lake, the center point of Hanoi whose name “The Return Sword Lake” originated from a legend of a sacred sword and home to a rare endangered giant turtle species and visit Ngoc Son Temple on the lake. Next, take a one-hour cycle tour of the Old Quarter of Hanoi with its ancient streets representing traditional trades from the past",
+                    "tripDistace":"",
+                    "tripTime":"",
+                    "meals":"Breakfast"
+                },
+                {
+                    "name":"HA NOI - HA LONG OVER NIGHT ON BOAT (B/L/D)",
+                    "text":"Morning pickup at 8:00 AM from your hotel for transfer to Ha Long Bay by shuttle bus (guide from the cruise), which is about 160 km or 3.5-hour drive away. On the way, you will see some rural areas of the Red River Delta with plenty of chances to take photos of Vietnamese farmers working in paddy fields. Stop half way to visit a handicraft workshop of fine clothes and embroidered paintings. Arrive in Ha Long City at 11:30 AM and check in aboard the booked junk right after the welcome drink is served. Start cruising while having lunch on board and enjoy the mighty bay view. Ha Long Bay meaning Descending Dragon Bay in Vietnamese as legend has it that it was where a holly dragon landed down from sky. The bay, famous as one of the world’s wonders and heritage sites whose formation dates back 500 million years, consists of around 2,000 karst islands and islets scattered over an area of 1,553 km2. The bay cruise will continue with up close sighting of Dinh Huong Island, Ga Choi Island, Dog Island, Sail Island, a visit to Sung Sot Cave and swimming stop at Titov Beach. Relax to enjoy the bay view at sunset, have dinner after, go fishing at 09:00 PM and spend a night on board",
+                    "tripDistace":"",
+                    "tripTime":"",
+                    "meals":"Breakfast, Lunch, Dinner"
+                },
+                {
+                    "name":"HA LONG - HA NOI (BRUNCH)",
+                    "text":"Wake up at 06:30 AM and refresh your body and mind with a Tai Chi exercise on the sundeck. Tai Chi is an ancient internal martial art often practiced in soft and gracefully slow moves to enhance internal harmony and vitality. Have tea and coffee onboard before proceeding to Titov Islet or SoiSim Island to trek and swim. Check out at 09:30, have a buffet brunch while cruising back to shore. Disembark at 11:00 AM to transfer to Hanoi by shuttle bus (no guide).   Late afternoon, free at leisure .",
+                    "tripDistace":"",
+                    "tripTime":"",
+                    "meals":"Brunch"
+                },
+                {
+                    "name":"FULL DAY TAM COC – BICH DONG – HOA LU (B) ",
+                    "text":"Your private guide will pick you up at your hotel in Hanoi downtown and then transfer in a private coach about 100 km South of Hanoi (2.5 hour drive) to Hoa Lu District, Ninh Binh Province. Discover the first capital of Vietnam, which was founded in the 10th Century by the Dinh Dynasty as a stronghold against the Northern invaders and shortly later was inherited by the Le Dynasty. Visit the two old temples one dedicated to Dinh Tien Hoang, the only king of the Dinh Dynasty and also Vietnam’s first emperor and the other to the succeeding kings of the Le Dynasty.  Afternoon, start a boating tour of Tam Coc, which is also referred to as “an inland Ha Long” for its strikingly similar terrain of rugged rocky mountains rising up from the lush wetland and constituting a magnificent maze.  Cruise along the meandering river through paddy fields and past the karst formations before entering the half-submerged entrances of three caves for a visit. These are major representatives of a host of natural caves and grottoes present in local mountains. Stop for a short break near a small shrine before returning to Ha Noi capital.",
+                    "tripDistace":"",
+                    "tripTime":"",
+                    "meals":"Breakfast"
+                },
+                {
+                    "name":"HA NOI DEPARTURE (B) – no guide",
+                    "text":"Free at leisure until meet our driver then transfer to airport for flight...",
+                    "tripDistace":"",
+                    "tripTime":"",
+                    "meals":"Breakfast"
+                }
+                
+            ],
+            "packageType":"International",
+            "category":"Family"
+        },
+        {
+            "packageName": "ROMANTIC MALDIVES",
+            "bgImage":"../../../assets/images/Maldives.jpg",
+            "pacakgeInfo":"",
+            "days": 4,
+            "nights": 3,
+            "dayInfo":
+            [
+                {
+                    "name":"Arrive in Maldives",
+                    "text":"On your arrival in Maldives, you will be escorted to your resort. Check-in and spend the rest of the day at leisure .We would recommend you to explore the resort's numerous diving sites and its own reef with a shipwreck. If a pool is more your style, Vivanta by Taj's infinity pool will not disappoint you. Sit back, relax and sip on your champagne while soaking in the magnificent sunset. Have dinner and stay overnight at the resort.",
+                    "tripDistace":"",
+                    "tripTime":"",
+                    "meals":""
+                },
+                {
+                    "name":"Day at Leisure – Optional activities Big Game fishing",
+                    "text":"Post breakfast you could head out for BIG GAME Fishing today. You don’t need to be an expert angler to enjoy some of the best fishing to be found anywhere in the world. Some of the fishes to be caught would be Sailfish, Marlin, Tune, Wahoo and more. This is a good experience both for novice and the season fishermen. Not only do you get to experience the excitement of the fishing. You also enjoy the unique golden sunrise and a chance to view and experience the peace and beauty of the island from the outside the atoll, bath in the golden light of early morning sun.",
+                    "tripDistace":"",
+                    "tripTime":"",
+                    "meals":""
+                },
+                {
+                    "name":"Day at Leisure- (Optional tour) Sunset cruise",
+                    "text":"Post breakfast we would recommend you to visit the capital of Maldives-Mahe to get a feel of the local culture and to shop a bit. In the evening, return back to the hotel to go for the sunset cruise offered by your resort (At extra cost). Looking at the sunset while cruising through the ocean around the various islands of Maldives is one of the most memorable experience you will have.",
+                    "tripDistace":"",
+                    "tripTime":"",
+                    "meals":""
+                },
+                {
+                    "name":"Departure to India",
+                    "text":"Breakfast at hotel. Leave for the airport to bid goodbye to Maldives",
+                    "tripDistace":"",
+                    "tripTime":"",
+                    "meals":""
+                }
+            ],
+            "packageType":"International",
+            "category":"Family"
+        },
+        {
+            "packageName": "Scenic Sri Lanka",
+            "bgImage":"../../../assets/images/white-sand.jpg",
+            "pacakgeInfo":"",
+            "days": 6,
+            "nights": 5,
+            "dayInfo":
+            [
+                {
+                    "name":"Arrival Transfer Airport / Colombo",
+                    "text":"Warm welcome by our tour representative at the airport. Transfer to Colombo. Check in at the hotel. Proceed for an afternoon city tour of Colombo. Return to the hotel. Dinner and overnight at the hotel",
+                    "tripDistace":"",
+                    "tripTime":"",
+                    "meals":""
+                },
+                {
+                    "name":"Colombo / Polomnaruma / Sigiriyra",
+                    "text":"After breakfast, leave for Sigiriya. On the way, pass by Polonnaruwa, the second capital of Sri Lanka in the 11th and 12th centuries and the Lankatilleke, Thuparama and Gal Vihare. Also visit the remains of the Royal Palace and Parakrama Samudra, a huge man made water reservoir. Arrive at Sigiriya, Check in at the hotel for dinner and overnight stay",
+                    "tripDistace":"",
+                    "tripTime":"",
+                    "meals":""
+                },
+                {
+                    "name":"Sigiriya / Dambulla / Kandy",
+                    "text":"Breakfast at the hotel will be followed by a visit to Sigiriya Rock Fortress. Having climbed the rock, you will encounter the remains of the Palace and its surroundings. En route to Kandy, visit the Dambulla Rock Cave Temple and a Spice Garden Matale. Check in at the hotel before an afternoon visit to the Temple of the Tooth and a Kandyan cultural dance performance. At the end of the day, return to the hotel for dinner and overnight stay",
+                    "tripDistace":"",
+                    "tripTime":"",
+                    "meals":""
+                },
+                {
+                    "name":"Kandy / Nuwara Eliya",
+                    "text":"After breakfast at the hotel, take the Upper Lake Drive and visit the Royal Botanical Gardens at Peradeniya and a Tea Plantation where one can see workers plucking the 'Green Gold' tea leaves. Upon arrival at Nuwara Eliya, take a late afternoon tour of Little England before dinner and check in at the hotel",
+                    "tripDistace":"",
+                    "tripTime":"",
+                    "meals":""
+                },
+                {
+                    "name":"Nuwara Eliya / Udawalawe",
+                    "text":"Depart for Yala after breakfast. Proceed an afternoon visit to Udawalawe National Park by jeep. You will see a vast array of animals including deer, peacock, elephant, wild buffalo and the lucky visitors may get to see a leopard or bear. At the end of the tour, check in at the hotel for dinner and overnight stay",
+                    "tripDistace":"",
+                    "tripTime":"",
+                    "meals":""
+                },
+                {
+                    "name":"Udawalawe / Ratnapura / Colombo",
+                    "text":"After breakfast proceed to Colombo, stopping by the Athathurusevana (Elephant Transit Home). Here, abandoned baby elephants are raised until they can be released back to the forest. If there is enough time, stop and visit the Gem Mine at Ratnapura before you are dropped off at the airport or your city hotel in Colombo.",
+                    "tripDistace":"",
+                    "tripTime":"",
+                    "meals":""
+                }
+            ],
+            "packageType":"International",
+            "category":"Family"
+        },
+        {
+            "packageName": "Simply Dubai",
+            "bgImage":"../../../assets/images/dubai.jpg",
+            "pacakgeInfo":"",
+            "days": 4,
+            "nights": 3,
+            "dayInfo":
+            [
+                {
+                    "name":"India – Dubai – Dhow Cruise",
+                    "text":"Arrive at Dubai international Airport, transfer to hotel. Hotels check-in only after 1400 hours. Check in to the hotel and afternoon free at leisure. Evening enjoy dinner while on a Dhow Cruise in Dubai gives you a chance to a fantastic all-round experience that involves Dubai sightseeing by night, culture and cuisine under one roof. While you float on placid waters you can view life in Dubai city as it bustles on the shore, enjoy a delicious meal, and listen to the strains of lilting Arabian melodies. Dinner on cruise and overnight at Hotel",
+                    "tripDistace":"",
+                    "tripTime":"",
+                    "meals":""
+                },
+                {
+                    "name":"Half Day Dubai City Tour",
+                    "text":"After breakfast depart for half day “Dubai City Tour”. On route visit amazing landmarks that combines fabulous architecture with the rich culture of the Middle East. Evening free at leisure. Overnight at Hotel",
+                    "tripDistace":"",
+                    "tripTime":"",
+                    "meals":""
+                },
+                {
+                    "name":"Desert Safari",
+                    "text":"After breakfast morning free at Leisure. Afternoon depart for “Desert Safari Tour”. Full of fun adventure and exciting where you experience the thrill of a roller coaster ride on the sand dunes. We then continue our journey to our Bedouin Campsite located in the heart of the Desert, where soft drink, water, tea or coffee is available for you to choose from. Camel rides waits for you. Trial of local smoking called Shisha or Hubbly Bubbly on different flavors. While you relax and recline in the tents or tables with carpet and pillows a delicious BBQ is being prepared under the starlit sky. Adding to the atmosphere of the night, an enchanting belly dancer shows a fascinating dance to a rhythm of an Arabic music, thereafter BBQ buffet dinner will be served. Dinner at Desert and overnight at Hotel",
+                    "tripDistace":"",
+                    "tripTime":"",
+                    "meals":""
+                },
+                {
+                    "name":"Dubai – India",
+                    "text":"Breakfast at hotel. Check out from the hotel by 1200 hours. Rest of the day free for shopping. Take last glimpse of Dubai. Later depart for your flight back home.",
+                    "tripDistace":"",
+                    "tripTime":"",
+                    "meals":""
+                }
+            ],
+            "packageType":"International",
+            "category":"Family"
+        },
+        {
+            "packageName": "Thrilling Thailand",
+            "bgImage":"../../../assets/images/Thailand.jpg",
+            "pacakgeInfo":"",
+            "days": 5,
+            "nights": 4,
+            "dayInfo":
+            [
+                {
+                    "name":"Arrive Bangkok – Pattaya",
+                    "text":"Welcome to Thailand! Upon arrival at Bangkok Suvarnabhumi International Airport ,make your way to the exit gate, you will be greeted by our local representative and transferred to the beautiful beach destination Pattaya by road for a drive of approx. 2 hours. Check into your hotel. Rest of the day at leisure. It is here that you can hit the bars, soak on the beaches, shop till you drop, pamper yourself with a foot massage and relish mouth-watering Thai cuisine. For evening we recommend a visit to the great and most popular Alcazar Show as optional. The Alcazar Show a world-famous cabaret is like The Lido and Moulin Rouge of Paris. Featuring a grand theatre with 1200 seats. and experience Dazzling Performances by men artist who are in glittering evening gowns as well groomed ladies and they dance. Overnight stay at the hotel",
+                    "tripDistace":"",
+                    "tripTime":"",
+                    "meals":""
+                },
+                {
+                    "name":"Pattaya – Coral Island Tour",
+                    "text":"After a sumptuous breakfast at the hotel, you will be transferred to the sparkling blue water of the Gulf of Thailand by a speedboat to arrive at the idyllic Coral Island (Koh Lan), where you will spend the day. One can explore beautiful and extensive coral while scuba diving or enjoy snorkeling in crystal clear sea waters. Laze around on the beach and bask in the sun or get playful and indulge in exciting water sports like para sailing, glass bottom boat ride, water-skiing and jet skis, water scooters. In the afternoon enjoy local Indian lunch at an Indian restaurant. Overnight stay at the hotel",
+                    "tripDistace":"",
+                    "tripTime":"",
+                    "meals":""
+                },
+                {
+                    "name":"Pattaya – Bangkok – City Tour",
+                    "text":"After breakfast, check out from Pattaya and proceed to Bangkok. Today get ready to experience panoramic City and Temple tour of Bangkok. The tour takes you to some of Bangkok's most distinguished Buddhist temples locally known as Wats. Visit Wat Traimit, Temple of the Golden Buddha which is home to a 5.5 ton statue of the holy Buddha made from solid gold and is a fine example of Sukhothai art. Next stop at Wat Pho, Temple of the Reclining Buddha that is home to the largest and the oldest shrine of its kind in Bangkok. Overnight stay at the hotel",
+                    "tripDistace":"",
+                    "tripTime":"",
+                    "meals":""
+                },
+                {
+                    "name":"Bangkok",
+                    "text":"After breakfast at hotel, day free for your leisure, shopping, explore the city on your own or we recommend you to take optional tour of Safari World and Marine Park. Thailand's popular open zoo. Divided into four distinct sections (Safari Park, Bird Park, Games Corner and Macaw Island), the Safari World Park is the place to see dolphins, orangutans, seals and a myriad of other exotic animals and birds amidst a picturesque African setting. Several lunch options are available here for you to pick from. Overnight stay at the hotel.",
+                    "tripDistace":"",
+                    "tripTime":"",
+                    "meals":""
+                },
+                {
+                    "name":"Departure Bangkok",
+                    "text":"After a breakfast check out from the hotel. If you have time left for your flight, enjoy free time for some last minute shopping. Later transfer to the airport to board your flight back home",
+                    "tripDistace":"",
+                    "tripTime":"",
+                    "meals":""
+                }
+            ],
+            "packageType":"International",
+            "category":"normal"
+        },
+        {
+            "packageName": "Bijli Mahadev",
+            "bgImage":"../../../assets/images/bijaliMahadev.jpg",
+            "pacakgeInfo":"Naggar via Jana Gypsy expedition ",
+            "days": 3,
+            "nights": 2,
+            "dayInfo":
+            [
+                {
+                    "name":"Patlikuhl – Naggar",
+                    "text":"You have to report at Patlikuhl Bus Stand by 9 AM.Drive to our Naggar base. After breakfast & freshening up we will start our short trip to Naggar Village. Naggar village has its own rich history. Historicilly it has been the capital of the (Kulluth) State, now Kullu. First day will be more about sight seeing than trekking. We will go to   The  Castle And the Jaagti Paat  is the prime tourist attraction in the town, almost offering it a visual definition. This castle was built around 1460 A.D in a unique blend of western and Himalayan styles by Raja Sidh Singh of Kullu.   Nicholas Art Gallery ( Uruswati Himalayan Folk Museum) ,which is established in 1928 by Professor Nicholas.  Tripura Sundri Temple-  A unique temple in several ways, this sacred structure, built completely of deodar wood, is a must visit area in Naggar.  On this day we will stay at Guest House in Naggar.",
+                    "tripDistace":"",
+                    "tripTime":"",
+                    "meals":""
+                },
+                {
+                    "name":"Naggar via jana to Bijli Mahadev",
+                    "text":"We will start our journey in the morning from Naggar after having breakfast and we will be heading towards Shiva's own Adobe Bijli Mahadev  through lush green deodars and grasslands by the road which is only suitable for 4×4 . In the journey we will pass through several villages and Jana Village is one the them. It is famous for its cultural value. The journey is going to be breathe taking as the view you are going to encounter will be absolutely marvellous. In the evening we will camp there and enjoy best of the nature in the starry night while enjoying our dinner.",
+                    "tripDistace":"",
+                    "tripTime":"",
+                    "meals":""
+                },
+                {
+                    "name":"Bijli Mahadev -Naggar - Patlikhul",
+                    "text":"After having breakfast we will leave to patlikhul with lovely memories of your holidays.",
+                    "tripDistace":"",
+                    "tripTime":"",
+                    "meals":""
+                }
+            ],
+            "packageType":"National",
+            "category":"Adventure"
+        },
+        {
+            "packageName": "CHANDRAKHANI – MAGIC VALLEY",
+            "bgImage":"../../../assets/images/chander.JPG",
+            "pacakgeInfo":"Chandrakhani Pass is one of the most beautiful and serene pass, at an altitude of 3660 m located in the Kullu valley. Chandrakhani Pass offers fabulous views of the Deo Tibba peak, Pir Panjal and Parbati range of mountains. The trek is one of the most beautiful treks that introduces the traveler to the remote, hilly cultures of Himachal Pradesh. The scenic beauty of the Kullu valley, and the mountain peaks that dot that horizon is a treat for the nature lover throughout the journey. The region is also known as the Valley of Gods. Legend has that Jamlu (the presiding deity at Malana), opened a basket containing the gods of Kullu at the Chandrakhani Pass and the strong winds blew the gods to their present abodes",
+            "days": 5,
+            "nights": 4,
+            "dayInfo":
+            [
+                {
+                    "name":"Patlikuhl – Naggar",
+                    "text":"You have to report at Patlikuhl Bus Stand by 9 AM. After breakfast & freshening up we will start our short trip to Naggar Village. Naggar village has its own rich history. Historicilly it has been the capital of the (Kulluth) State, now Kullu. First day will be more about sight seeing than trekking. We will go to   The  Castle And the Jaagti Paat  is the prime tourist attraction in the town, almost offering it a visual definition. This castle was built around 1460 A.D in a unique blend of western and Himalayan styles by Raja Sidh Singh of Kullu.  Nicholas Art Gallery ( Uruswati Himalayan Folk Museum) ,which is established in 1928 by Professor Nicholas.  Tripura Sundri Temple-  A unique temple in several ways, this sacred structure, built completely of deodar wood, is a must visit area in Naggar.  On this day we will stay at Guest House in Naggar.",
+                    "tripDistace":"",
+                    "tripTime":"",
+                    "meals":""
+                },
+                {
+                    "name":"Naggar - Naya Thapru",
+                    "text":"We start our trek to Naya Thapru early in the morning, after the breakfast. We will walk through the trails in the deodar forests and will reach Rumsu Village. We will have our lunch there and will continue our trek to the second day camping loaction. We will have our dinner and stay there over night",
+                    "tripDistace":"",
+                    "tripTime":"",
+                    "meals":""
+                },
+                {
+                    "name":"Naya Thapru - Chnadrakhani  Pass",
+                    "text":"After Breakfast, start trek to Chandrakhani Pass. Today is a steady climb through forest of conifer to alpine meadows. The trail offers magnificent views of Pir Panjal range and peaks rising above 6000 mtrs. A lovely trail leads to the pass and offers splendid views of Dhauladhar range , Parvati valley and Malana valley.Reaching the Chandrakhani Pass, standing above the clouds with a panoramic view all around is a divine experience. After spending some time & cherishing the view we start tracing our steps back to the Base of Chandrakhani Pass. Overnight Camp.",
+                    "tripDistace":"",
+                    "tripTime":"",
+                    "meals":""
+                },
+                {
+                    "name":"Chandrakhani – Magic valley ( Waichin )",
+                    "text":"We will further trek to Waichin, also known as Magic Valley, which is about 7-8 Km from Chandrakhani.  This place has its own uniqueness and teases the beauty of the Parvati valley. This Place is surrounded by the mighty mountains. By the Late afternoon/Evening we will arrive at the  camp in Waichin. We will have some rest and enjoy bonfire while having the dinner and will sleep  in the calmness amidst the mountains",
+                    "tripDistace":"",
+                    "tripTime":"",
+                    "meals":""
+                },
+                {
+                    "name":"Magic Valley – Bhuntar",
+                    "text":"Early morning after the breakfast we will head towards the last dam which is 2-3 km from the Waichin. At the Dam, Taxis will be waiting for us there . We will get into them and will move towards Bhuntar, from where you will take your buses",
+                    "tripDistace":"",
+                    "tripTime":"",
+                    "meals":""
+                }
+            ],
+            "packageType":"National",
+            "category":"Backpacking"
+        },
+        {
+            "packageName": "HAMPTA PASS TREK",
+            "bgImage":"../../../assets/images/Hampta.png",
+            "pacakgeInfo":"Hampta pass trek connects two beautiful valleys named; Kullu and Lahaul, where one gets to see various ever changing Landscapes.There are only few treks which can offer almost everything that one wishes to see on an Himalayan trek. Incredible views of glacial valleys, thick pine forest, open meadows, adrenaline pumping waterways, and an adventurous crossing of a high altitude pass. Like an icing on the cake, we have added an exciting day long trip for camping at Chandratal; a high altitude alpine lake & a camper's paradise. The return road journey is over the Rohtang pass. It is a moderate grade trek and recommended for experienced as well as beginners.",
+            "days": 5,
+            "nights": 4,
+            "dayInfo":
+            [
+                {
+                    "name":"Drive from Naggar to Jobra & Trek to Chika",
+                    "text":"Report at patlikhul bus stand at 9 AM. After freshening up & breakfast in Naggar base, board Taxi for Jobra. The trek initiates from Allain Guhugal Hydel Project site. Get down from the vehicle at the project site & across the main road. Take the narrow trail that leads to the forest of pine trees. A variety of trees like maple, deodar, toss and oak can also be spotted on this trail. The sight is very refreshing. The gradient of today’s trail is easy and ideal for a first day hike. Twenty minutes into the trek, you will reach a clearing from where the view opens up. This spot overlooks the lush green meadow strewed with small rocks with Rani Nallah flowing in centre of valley closed from two sides. Cross the Rani Nallah by the wooden bridge & from here trail is on the true right of Rani nallah. You can spot the horses grazing in this meadow which make a perfect setting for some beautiful photographs. Chika camp site is a huge, flat & spacious green patch. With Rani Nallah flowing by the side makes it a perfect spot for setting up the tents",
+                    "tripDistace":"",
+                    "tripTime":"",
+                    "meals":""
+                },
+                {
+                    "name":"Trek from Chika to Balu-Ka-Gera",
+                    "text":"Today’s trek is pretty thrilling with a couple of water crossings on the way. The trail stays on the true right of the river for most part of the day. The initial climb is through boulders .Walk along the Rani river into a valley dotted with tiny multi-coloured flowers which can give a tough competition to Valley of flowers in the post monsoon months. The green trail turn brown & rock strewed as we near Balu Ka Gera. Balu ka gera is the point from where the steep climb to Hampta pass begins. It is a level ground made up of the sand and dust brought down by the river. In the vicinity is a huge pool of water made from the glacial melts. The site is windy which make the temperature feel even lower than actual. Pitch your tents and camp at Balu Ka Gera, 11,000 feet above sea level.",
+                    "tripDistace":"",
+                    "tripTime":"",
+                    "meals":""
+                },
+                {
+                    "name":"Trek from Balu-Ka-Gera to Sheagoru via Hampta Pass",
+                    "text":"Start very early to have the advantage of time. This pass is one of the nasty one & weather can be very unpredictable. The trek begins by encircling the pool of water to enter the partially dried up glacial river bed. The climb is strenuous all the way upto Hampta pass. Walk at steady pace with few breaks. The pass is not easily identifiable so ask your guide about it. As you cross the pass you enter the Lahaul region & change in the scenery is very contrasting. The trail is completely downhill from the Pass. This trail is steep & not clearly identifiable. Be extra careful while descending. After some walking you will be able to spot the campsite of Shea Goru far in the distance in the direction of river flow. The last km to the site is mostly flat. Shea Goru in local means “Cold Street”. It is indeed very cold here owing to the winds. Camp & overnight stay in Shea Goru.",
+                    "tripDistace":"",
+                    "tripTime":"",
+                    "meals":""
+                },
+                {
+                    "name":"Trek from Sheagoru to Chatru",
+                    "text":" Drive to Chandratal ( If weather permits ) & Return to Chattru.Break camps early in the morning. Trek begins with the crossing of river which is flowing by the campsite. Now crossing this river is one hell of an experience in itself. Lets keep it as a surprize for the trek. Almost half of the trek is easy & full of descent. After descending you will see the large valley of river Chandra. Reach Chhatru which is the road head. From Chatru ,board taxi for a road journey to Chandratal. Reach Chandratal by late afternoon. After spending some time at Chandratal return to Chhatru by the evening. Camp in Chhatru .Please note that the road to chandratal is closed at times due to landslides or snow. In case the road is found closed the Chandrataal drive will not be done",
+                    "tripDistace":"",
+                    "tripTime":"",
+                    "meals":""
+                },
+                {
+                    "name":"Drive from Chattru to Manali . Drop in Manali by 5 PM Approx",
+                    "text":"We break camps early to avoid traffic jam at Rohtang Pass. After breakfast start road journey for Manali over rohtang Pass. Reach Manali by 5 PM Approx.",
+                    "tripDistace":"",
+                    "tripTime":"",
+                    "meals":""
+                }
+            ],
+            "packageType":"National",
+            "category":"Backpacking"
+        },
+        {
+            "packageName": "Indrahar Pass Trek",
+            "bgImage":"../../../assets/images/trekking-2.jpg",
+            "pacakgeInfo":"",
+            "days": 4,
+            "nights": 3,
+            "dayInfo":
+            [
+                {
+                    "name":"MCLEODGANJ TO TRIUND ",
+                    "text":"You'll gain over a kilometer in altitude, from McLeodganj (1750 mtrs) to Triund (2850 mtrs). This is a well marked trail for most times and takes around 5-6 hours to reach to Triund top. We start in the morning aat around 9 am and reach Triund by late afternoon. We'll get snack shops on the way to Triund. It is a very popular route for weekend trekkers and first timers.",
+                    "tripDistace":"5 KMS ",
+                    "tripTime":"5 - 6 HOURS",
+                    "meals":""
+                },
+                {
+                    "name":"TRIUND TO ILAQA GOT / LAHESH CAVES ",
+                    "text":"We trek from Triund to Lahesh Caves (3500 mtrs.) in the morning. We pass through Snowline Cafe (1 Hour from Triund) and Ilaqa Got at another one hour. We camp inside the caves (outside if no place available). We cannot move beyond Lahesh Caves after afternoon as weather and terrain may get risky",
+                    "tripDistace":"5 KMS ",
+                    "tripTime":"4 HOURS",
+                    "meals":""
+                },
+                {
+                    "name":"LAHESH CAVES TO INDRAHAR PASS AND BACK TO ILAQA GOT",
+                    "text":"It is steep climb on a rocky route. This will be the hardest day of the trek depending on the weather. We get magnificent views from the Indrahar Pass top (4300 meters). After brief stay at top we climb down and trek back to Ilaqa Got",
+                    "tripDistace":"8-9 KMS ",
+                    "tripTime":"6-7 HOURS",
+                    "meals":""
+                },
+                {
+                    "name":"ILAQA GOT TO MCLEODGANJ ",
+                    "text":"We trek back through the same route crossing Triund. The trek down will be a lot faster than the climb. We reach McLeodganj by late afternoon, and depart to our homes by evening bus to Delhi.",
+                    "tripDistace":"12 KMS",
+                    "tripTime":"4 HOURS",
+                    "meals":""
+                }
+            ],
+            "packageType":"National",
+            "category":"Backpacking"
+        },
+        {
+            "packageName": "Triund Trek",
+            "bgImage":"../../../assets/images/triund.jpg",
+            "pacakgeInfo":"",
+            "days": 2,
+            "nights": 1,
+            "dayInfo":
+            [
+                {
+                    "name":"MCLEODGANJ to TRIUND",
+                    "text":"Meet and Greet with our guide at Mcleodganj in the morning. After briefing, we start our trek leisurely. Our trek route will be - McLeodganj > Dharamkot > Galu Temple > Triund. It's an easy to moderate 9 kms trek and takes 5-6 hours of mesmerizing trail to reach the top. Reach at the top by afternoon. Have fresh lunch at Triund. Relax and enjoy the amazing views Triund offers. Dinner and Overnight at the camps.",
+                    "tripDistace":"",
+                    "tripTime":"",
+                    "meals":""
+                },
+                {
+                    "name":"TRIUND and BACK to MCLEODGANJ",
+                    "text":"Early morning after Breakfast and Tea we explore the surrounding areas. Then we make our way back to Mcleodganj. End of a memorable trip!",
+                    "tripDistace":"",
+                    "tripTime":"",
+                    "meals":""
+                }
+            ],
+            "packageType":"National",
+            "category":"Backpacking"
+        },
+        {
+            "packageName": "Adventure Sports",
+            "bgImage":"../../../assets/images/paragliding-2.jpg",
+            "pacakgeInfo":"",
+            "days": "",
+            "nights": "",
+            "dayInfo":
+            [
+                {
+                    "name":"White Water Rafting",
+                    "text":"Rafting in Manali is most enjoyable in Manali region if you are adventure lover! If you are looking for safe rafting in manali managed by expert rafting professionals in Manali, then get ready for some highly enthralling water sports in Beas River that offers a thrilling experience of Rafting in Kullu Manali, Himachal Pradesh.  Rafting season in Manali keeps running all year round except monsoons and extreme winters, as water levels get down. During summer season, the melting snow on Himalayas fill the Beas river with enough water and also provide them high speed that is suitable for taking up the white water river rafting expedition in Kullu Manali.  We offer River- rafting at Raison, on a stretch of approximately 7 kms. (Period Apr 15th-Jun end). The journey takes nearly one & half hour consisting of rapids from grade II & III.",
+                    "tripDistace":"",
+                    "tripTime":"",
+                    "meals":""
+                },
+                {
+                    "name":"Paragliding",
+                    "text":"Riding the thermals and sailing the blue sky like the Eagle can be thrilling experience. Paragliding facilities are available at Solang Nallah and Marhi.    Paragliding is organized in Kullu valley throughout the year at Solang Valley, located 14 kms from Manali and other locations like Marhi, Fatru, Bijli Mahadev etc. There are generally two kind of flights.  Short flights   The client is taken 100 - 150 mts up the slope and takes a flight along with the pilot in the two seater paraglider. The flight lasts for approximately 60 - 90 seconds.  High Flying  Approximately 20-30 minutes flight and arranged at Fatru, Kothi and near Naggar ",
+                    "tripDistace":"",
+                    "tripTime":"",
+                    "meals":""
+                },
+                {
+                    "name":"Paragliding in Dhobhi",
+                    "text":"Recently started private sight for paragliding is at Dhobi, a location in-between Kullu and Manali. It is one of the most beautiful sight and highest point achieved during the flight is around 8000 ft. and landing point is around 2000 ft. Paragliding in Dobhi have High Fly option available here and the time of flight is around 12 - 15 minutes. All pilots used here are professionally trained and highly qualified... Contact us for Paragliding in Dhobi and Paragliding in Kullu Manali..",
+                    "tripDistace":"",
+                    "tripTime":"",
+                    "meals":""
+                }
+            ],
+            "packageType":"National",
+            "category":"Adventure"
+        },
+        {
+            "packageName": "Great Egypt",
+            "bgImage":"../../../assets/images/egypt.jpg",
+            "pacakgeInfo":"",
+            "days": "14",
+            "nights": "13",
+            "dayInfo":
+            [
+                {
+                    "name":"Arrival – Cairo",
+                    "text":"Upon arrival to Cairo, you will be met by Stylish Holidays representative and transferred to your hotel for overnight.",
+                    "tripDistace":"",
+                    "tripTime":"",
+                    "meals":""
+                },
+                {
+                    "name":" Cairo",
+                    "text":"After breakfast, your private Egyptologist tour guide and driver will pick you up and start your tour. Drive to Giza and visit the Pyramids. See the Sphinx and the Valley Temple. Continue to visit Memphis.Lunch en route. Continue to visit Sakkara. Return to Cairo and visit a Papyrus Institute on your way to your hotel for overnight.",
+                    "tripDistace":"",
+                    "tripTime":"",
+                    "meals":""
+                },
+                {
+                    "name":"Alexandria",
+                    "text":"After Breakfast, drive to Alexandria and on the way you will visit the Baramos Monastery at Wadi el Natroun from the 4th century. Upon arrival to Alexandria take a tour at the Greco- Roman Museum, Al-Montazah Gardens and the Catacomb.Overnight at hotel in Alexandria.",
+                    "tripDistace":"",
+                    "tripTime":"",
+                    "meals":""
+                },
+                {
+                    "name":"Alexandria - El Alamein",
+                    "text":"Breakfast at hotel and visit the Library of Alexandria. Drive to El Alamein and visit the WW2 cemetery.Overnight at hotel in Al Alamein. ",
+                    "tripDistace":"",
+                    "tripTime":"",
+                    "meals":""
+                },
+                {
+                    "name":"El Alamein - Cairo",
+                    "text":"Enjoy the relaxing Mediterranean Sea. Transfer back to Cairo. Overnight at hotel in Cairo. ",
+                    "tripDistace":"",
+                    "tripTime":"",
+                    "meals":""
+                },
+                {
+                    "name":"Cairo – Aswan – Nile Cruise",
+                    "text":"Transfer to Cairo airport for your very early flight to Aswan.Upon arrival to Aswan, you will be met by Stylish Holidays representative and transferred to your Nile cruise for lunch. Take a tour to the Aswan High Dam. Proceed to the Granite Quarries and the huge Unfinished Obelisk. Then take a short motorboat ride to visit the romantic and majestic Philae Temple. In the afternoon (if weather permitting) take a ride on a Felucca, around Elephantine Island. Return to your cruise for dinner and overnight. ",
+                    "tripDistace":"",
+                    "tripTime":"",
+                    "meals":""
+                },
+                {
+                    "name":"Nile Cruise - Kom Ombo – Edfu",
+                    "text":"Sail to Kom Ombo and visit the Temple of Sobek and Haroeris in Kom Ombo. Continue sailing to Edfu and visit the extraordinary Temple of Horus at Edfu using horse carriage to reach there and back. Sail to Esna, cross the lock and continue to Luxor. Dinner and overnight on board.",
+                    "tripDistace":"",
+                    "tripTime":"",
+                    "meals":""
+                },
+                {
+                    "name":"Nile Cruise – Edfu – Luxor",
+                    "text":" Cross to the West Bank of the Nile and explore the Valley of the Kings. Rising out of the desert plain in a series of terraces, the Temple of Queen Hatshepsut. On the way back to the river Nile, your road passes by the famed Colossi of Memnon. Dinner and overnight on board.",
+                    "tripDistace":"",
+                    "tripTime":"",
+                    "meals":""
+                },
+                {
+                    "name":" Nile Cruise - Luxor – Sharm El Sheikh",
+                    "text":" After breakfast, visit the East Bank of the Nile starting with the especially graceful Temple of Luxor. Proceed to the North of Luxor to the Karnak Temple.In the afternoon, transfer to Luxor airport for your flight to Sharm el Sheikh and transfer to your hotel. Overnight at hotel in Sharm El Sheikh. ",
+                    "tripDistace":"",
+                    "tripTime":"",
+                    "meals":""
+                },
+                {
+                    "name":" Sharm El Sheikh",
+                    "text":" Free Day at Sharm el Sheikh to enjoy the Red Sea activities and the charming of Sharm el Sheikh. Overnight at hotel in Sharm El Sheikh.",
+                    "tripDistace":"",
+                    "tripTime":"",
+                    "meals":""
+                },
+                {
+                    "name":" Sharm El Sheikh – St. Catherine",
+                    "text":"After breakfast, your private Egyptologist guide and driver will drive you to St. Catherine in Sinai, upon arrival installation in your hotel for overnight in St. Catherine ",
+                    "tripDistace":"",
+                    "tripTime":"",
+                    "meals":""
+                },
+                {
+                    "name":"St. Catherine - Cairo",
+                    "text":"Early Morning ascending Moses Mountain, to attend the Sun Rise on top of the mountain.  After the descending of the mountain, visit the monastery of St. Catherine if available and then transfer back to Cairo . Overnight at hotel in Cairo.",
+                    "tripDistace":"",
+                    "tripTime":"",
+                    "meals":""
+                },
+                {
+                    "name":"Cairo",
+                    "text":"Visit the Egyptian Museum of Antiquities for a detailed, guided tour. Lunch en route. Continue to the Citadel of Salah El Din and the alabaster Mosque of Mohamed Ali Mosque. Continue to walk in the streets of Khan el Khalili Bazaar. Overnight at hotel in Cairo. ",
+                    "tripDistace":"",
+                    "tripTime":"",
+                    "meals":""
+                },
+                {
+                    "name":" Cairo – Final Departure",
+                    "text":" After Breakfast, transfer to Cairo airport for your departure flight.",
+                    "tripDistace":"",
+                    "tripTime":"",
+                    "meals":""
+                }
+            ],
+            "packageType":"International",
+            "category":"Family"
+        },
+        {
+            "packageName": "Golden Triangle",
+            "bgImage":"../../../assets/images/paragliding-2.jpg",
+            "pacakgeInfo":"Delhi – Agra – Jaipur * : Golden Triangle Tour is the most popular tourist circuit in India and a must see for a first time traveler to India. This incredible Golden Triangle Tour comprises of the three famous cities of Delhi, Agra and Jaipur having the grandeur, the glory & the history.",
+            "days": "7",
+            "nights": "6",
+            "dayInfo":
+            [
+                {
+                    "name":"",
+                    "text":"Arrive Delhi – The Capital city and the political hub of India. The city's importance lies not just in its past glory as the seat of empires and magnificent monuments, but also in the rich and diverse cultures. On arrival you will be met, assisted and transferred to the hotel. Evening visit the famous Red Fort for an exciting Son-et-Lumiere show (sound & light show). Overnight stay in Delhi.",
+                    "tripDistace":"",
+                    "tripTime":"",
+                    "meals":""
+                },
+                {
+                    "name":"",
+                    "text":"This morning after breakfast proceed for a full day combined tour of The Old & The New Delhi. The Old Delhi tour includes visits to The Jama Masjid, the largest mosque in India, the massive Red Fort, Chandni Chowk (moonlight square ) and The Raj Ghat - the cremation site of Mahatma Gandhi. Thereafter proceed for sightseeing of New Delhi, visit the Qutub Minar - a 72 meter high monument, and Humayun's Tomb built in mid 16th century. Also visit the Lotus Temple, drive past India Gate, the Raj Bhavan, Safdarjung's Tomb and the Parliament. Overnight stay in Delhi",
+                    "tripDistace":"",
+                    "tripTime":"",
+                    "meals":""
+                },
+                {
+                    "name":"",
+                    "text":"This morning after breakfast drive to Agra (203 kms / 4.5hrs), home to one of the seven wonders of the world – The Taj Mahal & is also famous for its leather goods. Arrive and transfer to hotel. Later proceed for a half-day tour of Agra city. Visit The Taj Mahal, which is the mausoleum of Shah Jehan’s beloved wife Mumtaz Mahal. This monument of love is made of white marble and it took 20 years to build. Thereafter proceed to visit the Agra Fort and Itmad-Ud-Daulah. Overnight stay in Agra",
+                    "tripDistace":"",
+                    "tripTime":"",
+                    "meals":""
+                },
+                {
+                    "name":"",
+                    "text":"Today morning after breakfast, drive to Jaipur (232kms / 5hrs) via Fatehpur Sikri, the deserted red sandstone city which Akbar built as his capital in the 16th century and abandoned just 15 years later. Jaipur is the first planned city of India, located in the semi-desert lands of Rajasthan. The city which once had been the capital of the royalty now is the capital city of Rajasthan. The very structure of Jaipur resembles the taste of the Rajputs and the Royal families. At present, Jaipur is a major business center with all requisites of a metropolitan city. On arrival transfer to the hotel. Evening stroll the local bazaar for some exquisite shopping of bangles, leather footwear (mojris), blue pottery, gems & semi precious stones, lacquered bangles, tie-dye fabrics. Overnight stay in Jaipur.",
+                    "tripDistace":"",
+                    "tripTime":"",
+                    "meals":""
+                },
+                {
+                    "name":"",
+                    "text":"This morning after breakfast, visit the Amber fort, a massive fort-palace complex built in 16th century and named after the town of Amber. Enjoy an elephant / jeep ride at the fort. Later drive past the Hawa Mahal-a Palace of winds. It is a five storey high red sandstone structure complete with over 950 windows. The wind (or hawa in Hindi) circulates through these windows giving the palace its name. In the afternoon visit the City palace an imposing blend of traditional Rajput and Mughal architecture. It is a vast palace complex occupying nearly one-seventh of the Pink City. Walk to adjacent Jantar Mantar, the largest of the five astronomical observatories built by Maharaja Jai Singh during the period 1727-1734. Overnight stay in Jaipur.",
+                    "tripDistace":"",
+                    "tripTime":"",
+                    "meals":""
+                },
+                {
+                    "name":"",
+                    "text":"This morning after breakfast drive to Delhi (252kms / 5hrs). Arrive and transfer to hotel. Overnight stay in Delhi",
+                    "tripDistace":"",
+                    "tripTime":"",
+                    "meals":""
+                },
+                {
+                    "name":"",
+                    "text":"This day, you will be transferred to the airport to board flight for your onward destination. And with this ends a wonderful sojourn of the “Golden Triangle”",
+                    "tripDistace":"",
+                    "tripTime":"",
+                    "meals":""
+                }
+                
+                
+            ],
+            "packageType":"National",
+            "category":"normal"
+        },
+        {
+            "packageName": "Royal Rajasthan",
+            "bgImage":"../../../assets/images/rajasthan_1.jpg",
+            "pacakgeInfo":"Delhi – Agra – Jaipur : Golden Triangle Tour is the most popular tourist circuit in India and a must see for a first time traveler to India. This incredible Golden Triangle Tour comprises of the three famous cities of Delhi, Agra and Jaipur having the grandeur, the glory & the history. ",
+            "days": "7",
+            "nights": "6",
+            "dayInfo":
+            [
+                {
+                    "name":"",
+                    "text":"Arrive Delhi – The Capital city and the political hub of India. The city's importance lies not just in its past glory as the seat of empires and magnificent monuments, but also in the rich and diverse cultures. On arrival you will be met, assisted and transferred to the hotel. Evening visit the famous Red Fort for an exciting Son-et-Lumiere show (sound & light show). Overnight stay in Delhi.",
+                    "tripDistace":"",
+                    "tripTime":"",
+                    "meals":""
+                },
+                {
+                    "name":"",
+                    "text":"This morning after breakfast proceed for a full day combined tour of The Old & The New Delhi. The Old Delhi tour includes visits to The Jama Masjid, the largest mosque in India, the massive Red Fort, Chandni Chowk (moonlight square ) and The Raj Ghat - the cremation site of Mahatma Gandhi. Thereafter proceed for sightseeing of New Delhi, visit the Qutub Minar - a 72 meter high monument, and Humayun's Tomb built in mid 16th century. Also visit the Lotus Temple, drive past India Gate, the Raj Bhavan, Safdarjung's Tomb and the Parliament. Overnight stay in Delhi.",
+                    "tripDistace":"",
+                    "tripTime":"",
+                    "meals":""
+                },
+                {
+                    "name":"",
+                    "text":"This morning after breakfast drive to Agra (203 kms / 4.5hrs), home to one of the seven wonders of the world – The Taj Mahal & is also famous for its leather goods. Arrive and transfer to hotel. Later proceed for a half-day tour of Agra city. Visit The Taj Mahal, which is the mausoleum of Shah Jehan’s beloved wife Mumtaz Mahal. This monument of love is made of white marble and it took 20 years to build. Thereafter proceed to visit the Agra Fort and Itmad-Ud-Daulah. Overnight stay in Agra.",
+                    "tripDistace":"",
+                    "tripTime":"",
+                    "meals":""
+                },
+                {
+                    "name":"",
+                    "text":"Today morning after breakfast, drive to Jaipur (232kms / 5hrs) via Fatehpur Sikri, the deserted red sandstone city which Akbar built as his capital in the 16th century and abandoned just 15 years later. Jaipur is the first planned city of India, located in the semi-desert lands of Rajasthan. The city which once had been the capital of the royalty now is the capital city of Rajasthan. The very structure of Jaipur resembles the taste of the Rajputs and the Royal families. At present, Jaipur is a major business center with all requisites of a metropolitan city. On arrival transfer to the hotel. Evening stroll the local bazaar for some exquisite shopping of bangles, leather footwear (mojris), blue pottery, gems & semi precious stones, lacquered bangles, tie-dye fabrics. Overnight stay in Jaipur.",
+                    "tripDistace":"",
+                    "tripTime":"",
+                    "meals":""
+                },
+                {
+                    "name":"",
+                    "text":"This morning after breakfast, visit the Amber fort, a massive fort-palace complex built in 16th century and named after the town of Amber. Enjoy an elephant / jeep ride at the fort. Later drive past the Hawa Mahal-a Palace of winds. It is a five storey high red sandstone structure complete with over 950 windows. The wind (or hawa in Hindi) circulates through these windows giving the palace its name. In the afternoon visit the City palace an imposing blend of traditional Rajput and Mughal architecture. It is a vast palace complex occupying nearly one-seventh of the Pink City. Walk to adjacent Jantar Mantar, the largest of the five astronomical observatories built by Maharaja Jai Singh during the period 1727-1734. Overnight stay in Jaipur.",
+                    "tripDistace":"",
+                    "tripTime":"",
+                    "meals":""
+                },
+                {
+                    "name":"",
+                    "text":"This morning after breakfast drive to Delhi (252kms / 5hrs). Arrive and transfer to hotel. Overnight stay in Delhi",
+                    "tripDistace":"",
+                    "tripTime":"",
+                    "meals":""
+                },
+                {
+                    "name":"",
+                    "text":"This day, you will be transferred to the airport to board flight for your onward destination. And with this ends a wonderful sojourn of the “Golden Triangle”",
+                    "tripDistace":"",
+                    "tripTime":"",
+                    "meals":""
+                }
+                
+                
+            ],
+            "packageType":"National",
+            "category":"Family"
+        },
+        {
+            "packageName": "Goa",
+            "bgImage":"../../../assets/images/Goa.jpg",
+            "pacakgeInfo":"",
+            "days": "4",
+            "nights": "3",
+            "dayInfo":
+            [
+                {
+                    "name":"Arrival | Airport to Hotel",
+                    "text":"Arrive in Goa, our rep will pick you up from the airport and assist you in getting transferred to the hotel in a private cab. Check-in at the hotel and rest for a while. In the evening stroll out on the beach and relax for the day.",
+                    "tripDistace":"",
+                    "tripTime":"",
+                    "meals":""
+                },
+                {
+                    "name":"North Goa Sightseeing",
+                    "text":"Your driver will pick you up from the hotel and take you for a private tour of North Goa that includes Mapusa Town, Lord Bodgeshwar Temple, Beaches of Vagator, Anjuna Beach, Calangute Beach and Fort Aguada",
+                    "tripDistace":"",
+                    "tripTime":"",
+                    "meals":""
+                },
+                {
+                    "name":"Sightseeing of South Goa",
+                    "text":"Your driver will pick you up from the hotel and take you to private tour of South Goa that includes Miramar Beach, Dona Paula Bay, Old Goa Churches, Temples of Shri Mangueshi, Shri. Shantadurga and Colva Beach",
+                    "tripDistace":"",
+                    "tripTime":"",
+                    "meals":""
+                },
+                {
+                    "name":"Airport Drop",
+                    "text":"After breakfast, your driver will pick you up from the hotel and drop off at the Airport",
+                    "tripDistace":"",
+                    "tripTime":"",
+                    "meals":""
+                }
+                
+                
+            ],
+            "packageType":"National",
+            "category":"Family"
+        },
+        {
+            "packageName": "Hills and Backwaters",
+            "bgImage":"../../../assets/images/backwater.jpg",
+            "pacakgeInfo":"Cochin – Munnar – Thekkady – Kumarakom – Allepey - Kovalam : God’s Own Country, Kerala is known as a tropical paradise of waving palms and wide sandy beaches. It has everything to offer a discerning traveler from its beaches to backwaters to mountains to coconuts to spices and art forms like Kathakali and Mohini Attam. Also a land of diverse religions where you can find Hindu temples, mosques, churches, and even synagogues. Not to forget, Kerala is renowned for its traditional authentic Ayurveda, the science of life.",
+            "days": "12",
+            "nights": "11",
+            "dayInfo":
+            [
+                {
+                    "name":"",
+                    "text":" Arrive Kochi (colonial name Cochin) a vibrant city situated on the south-west coast of the Indian peninsula in the breathtakingly scenic and prosperous state of Kerala, hailed as 'God's Own Country'. Its strategic importance over the centuries is underlined by the sobriquet Queen of the Arabian Sea. Informally, Cochin is also referred to as the Gateway to Kerala. On arrival, you will be met and assisted and transferred to hotel. In the evening proceed to a local auditorium for a performance of Kathakali one of the oldest theatre forms in the world that originated in Kerala. The most interesting aspect of Kathakali, is its elaborate make-up code. It is a presentation, in which dancers take various roles in performances traditionally based on themes from Hindu mythology, especially the two epics, the Ramayana and the Mahabharata. Overnight stay in Cochin.",
+                    "tripDistace":"",
+                    "tripTime":"",
+                    "meals":""
+                },
+                {
+                    "name":"",
+                    "text":"This morning after breakfast, proceed for a half-day tour of Cochin. Arrive into Fort Cochin and proceed to visit the Dutch Palace (closed on Friday), built by the Portuguese in 1555 A.D., is now a portrait gallery of the Cochin Rajas and notable for some of the best mythological murals in India, which are in the best traditions of Hindu temple art. Later visit the Jewish Synagogue (closed on Saturday) and St. Francis Church, the oldest European Church in India. The Portuguese explorer, Vasco da Gama, died in Kochi in 1524 when he was on his third visit to India. His body was originally buried in this church, but after fourteen years his remains were moved to Lisbon. Thereafter visit the Chinese Fishing nets, these are fixed land installations for an unusual form of fishing — shore operated lift nets. Later, drive to Munnar (140kms / 4hours). Munnar was the summer resort of the British and now is one of the most popular hill stations in Kerala. Enjoy the stunning view of the Cardamom hills & greenery of the tea plantations. Arrive and transfer to hotel. Overnight stay in Munnar.",
+                    "tripDistace":"",
+                    "tripTime":"",
+                    "meals":""
+                },
+                {
+                    "name":"",
+                    "text":"This morning after breakfast, set out to visit the Eravikulam National Park. See the very rare mountain goats locally called the Nilgiri Tahr and then visit the Mattupetty Dam offering panoramic view of the dam surrounded by wooden hills and tea plantations. Also visit the Swiss Dairy Farm, Old Munnar Town and the town market. Day at leisure. Overnight stay in Munnar.",
+                    "tripDistace":"",
+                    "tripTime":"",
+                    "meals":""
+                },
+                {
+                    "name":"",
+                    "text":"This day after breakfast, drive to Thekkady/Periyar (125kms / 4hours). Thekkady is enchanting as the road winds through tranquill countryside, rich plantations and thick jungles. The Periyar Wildlife Sanctuary is centered around the large (24 km2) artificial lake formed by a dam across the Periyar river. Arrive and transfer to hotel. Overnight stay in Thekkady.",
+                    "tripDistace":"",
+                    "tripTime":"",
+                    "meals":""
+                },
+                {
+                    "name":"",
+                    "text":"Today early morning, proceed for an exciting boat ride on the Lake Periyar. See a large variety of wild animals like elephants, monkeys, deer, wild boar etc and some exotic birds during the boat cruise. Though it’s a Tiger reserve, a tiger is seldom seen. Evening visit the Kumily market which is famous for the spices – cardamom, nutmeg, pepper. Overnight stay in Thekkady.",
+                    "tripDistace":"",
+                    "tripTime":"",
+                    "meals":""
+                },
+                {
+                    "name":"",
+                    "text":"This morning after breakfast, drive to Kumarakom (120kms / 3.5hrs). Popularly known as the “Venice of the East”, this exotic backwater village consists of a cluster of island villages in and around the Vembanad Lake. Arrive and transfer to hotel. Overnight stay in Kumarakom.",
+                    "tripDistace":"",
+                    "tripTime":"",
+                    "meals":""
+                },
+                {
+                    "name":"",
+                    "text":"This day after breakfast, proceed for a visit to the Kumarakom Bird Sanctuary, where a significant number of bird species are known to make migratory visits. The park area covers around 15 acres and functions under the aegis of the government of Kerala. Birds like the Siberian crane, egret, heron, waterfowl, ducks, moorhens and kingfisher are commonly found. Afternoon, indulge in authentic Kerala ayurveda massages. Overnight stay in Kumarakom.",
+                    "tripDistace":"",
+                    "tripTime":"",
+                    "meals":""
+                },
+                {
+                    "name":"",
+                    "text":"Today morning after breakfast, embark the Houseboat, traditionally called as “Kettuvallam” – meaning a wooden country boat tied with coir ropes, having thatched roof. Enjoy the backwaters of Kerala and view lush green paddy fields. Overnight on houseboat in Alleppey.",
+                    "tripDistace":"",
+                    "tripTime":"",
+                    "meals":""
+                },
+                {
+                    "name":"",
+                    "text":"This morning after breakfast, disembark from the Houseboat and drive to Kovalam (165kms / 4.5hrs). Kovalam - breathtakingly beautiful - a haven of peace and tranquility an idyllic tourist destination in God's own country. Backed by precipitously mounting headlands and covered by fertile coconut palms, the beaches, especially the southern most part of lighthouse beach is a magnificent beach destination located only 19kms from the Trivandrum city. Arrive and transfer to hotel. Overnight stay in Kovalam.",
+                    "tripDistace":"",
+                    "tripTime":"",
+                    "meals":""
+                },
+                {
+                    "name":"",
+                    "text":"This day, after breakfast visit the Napier Museum in Thiruvananthapuram, an art and natural history museum is a landmark in the city with its unique ornamentation and architectural style. This Indo-Saracenic structure also boasts a natural air conditioning system. Later proceed to the Padmanabha Swamy Temple (entry restricted for foreigners), famous Hindu temple dedicated to Lord Vishnu. This is an ancient temple and the city of Thiruvananthapuram derives its name from the name of the presiding deity enshrined in the temple. Thereafter visit the Science & Technology museum, Trivandrum Zoo which houses an art gallery of the famous king Raja Ravi Verma. Evening at leisure to enjoy the pristine beaches. Overnight stay in Kovalam.",
+                    "tripDistace":"",
+                    "tripTime":"",
+                    "meals":""
+                },
+                {
+                    "name":"",
+                    "text":"This early morning, proceed to visit Kanyakumari (89kms / 2hours one way) – the southernmost tip of South India. Kanyakumari takes its name from the Kumari Amman or Kanyakumari Temple, situated in the town, on the sea-shore, the very confluence of the three water-bodies - the Arabian Sea, the Bay of Bengal and the Indian Ocean. Visit the Vivekananda Rock Memorial, a sacred monument built on a rock in the middle of the sea. This is the place where the great spiritual teacher Swami Vivekananda attained enlightenment. Evening return back to Kovalam, enroute visit the Padmanabhapuram Palace (closed on Mondays), built in the Travancore architectural style. Overnight stay in Kovalam.",
+                    "tripDistace":"",
+                    "tripTime":"",
+                    "meals":""
+                },
+                {
+                    "name":"",
+                    "text":"This day, transfer to Trivandrum airport for your flight to onward destination. You return back with wonderful memories of “God’s Own Country”",
+                    "tripDistace":"",
+                    "tripTime":"",
+                    "meals":""
+                }
+                
+                
+            ],
+            "packageType":"National",
+            "category":"Family"
+        },
+        {
+            "packageName": "Heavenly Kashmir",
+            "bgImage":"../../../assets/images/Kashmir.jpg",
+            "pacakgeInfo":"Srinagar – Gulmarg – Pahalgam: Kashmir is an important tourist destination of India and rightly called as Heaven or Paradise on Earth. Its sprawling mountainous landscape, scenic visits, blue lakes and peaceful ambience is indescribable but the essence can be felt greatly. It also has an eventful history. Located in the northernmost region of India, it is home to numerous gardens and placid lakes. There are many tourist attractions in Kashmir that will simply leave you awe-inspired during your visit to this Paradise. ",
+            "days": "8",
+            "nights": "7",
+            "dayInfo":
+            [
+                {
+                    "name":"",
+                    "text":"Arrive Srinagar - the summer capital of the Indian state of Jammu and Kashmir and the largest city in the Kashmir region is the gateway to the Heavenly Kashmir. On arrival you will be met, assisted and transferred to the hotel. In the evening, proceed for a traditional Shikhara ride on Dal or Nagin lake. Also, witness walnut woodcarving and Paper Machie products which are quite unique to Kashmir with colourful motifs and designs on them. Overnight stay in Srinagar.",
+                    "tripDistace":"",
+                    "tripTime":"",
+                    "meals":""
+                },
+                {
+                    "name":"",
+                    "text":"Today morning after breakfast, proceed for a half-day tour of Srinagar. Visit the Mughal Gardens which have terraced lawns, cascading fountains, paint-box-bright flowerbeds and the panorama of the Dal Lake in front of them. Nishat Bagh - situated on the banks of the Dal Lake, with the Zabarwan Mountains as its backdrop, this 'garden of bliss' commands a magnificent view of the lake and the snow capped Pir Panjal mountain range which stands far away to the west of the valley. Also visit Shalimar Bagh. This Mughal garden was built by Emperor Jahangir for his Empress Noor Jehan. Thereafter visit a carpet-weaving factory. Overnight stay in Srinagar.",
+                    "tripDistace":"",
+                    "tripTime":"",
+                    "meals":""
+                },
+                {
+                    "name":"",
+                    "text":"This day after breakfast, drive to Sonmarg (82kms/2.5hrs one way) for a full day excursion. As the name suggests, Sonmarg is the meadow of gold and a trekker’s heaven. It also has adventurous routes with beautiful green water and lakes around. Spend the day in the valley streamed with flower and surrounded by mountains. Evening return back to Srinagar. Overnight stay in Srinagar.",
+                    "tripDistace":"",
+                    "tripTime":"",
+                    "meals":""
+                },
+                {
+                    "name":"",
+                    "text":"This morning, after breakfast, proceed to Pahalgam – the valley of shepherds. Drive through Saffron fields, visit Awantipura ruins (1100 years old temple of Lord Vishnu built by King Awantiwareman). Drive through the pine forest and along Lidder River. On arrival, transfer to hotel. Overnight stay in Pahalgam.",
+                    "tripDistace":"",
+                    "tripTime":"",
+                    "meals":""
+                },
+                {
+                    "name":"",
+                    "text":"This day at leisure. Enjoy the breathtaking views of this beautiful place. Overnight stay in Pahalgam.",
+                    "tripDistace":"",
+                    "tripTime":"",
+                    "meals":""
+                },
+                {
+                    "name":"",
+                    "text":"Today morning, drive to Gulmarg (155kms / 3.5hrs) – Meadow of Flowers. Gulmarg has one of the best Ski slopes in the world and highest golf course of the world with 18 holes. On a clear day one can also view the Nanga Parbhat. Arrive and transfer to hotel. Overnight stay in Gulmarg.",
+                    "tripDistace":"",
+                    "tripTime":"",
+                    "meals":""
+                },
+                {
+                    "name":"",
+                    "text":"This day at leisure. One can indulge in activities like golfing, sledging, and horse riding (best enjoyed in summer season). Overnight stay in Gulmarg.",
+                    "tripDistace":"",
+                    "tripTime":"",
+                    "meals":""
+                },
+                {
+                    "name":"",
+                    "text":"This morning after breakfast, you will be driven back to Srinagar and transferred to the airport for your flight to onward destination with unforgettable memories of “Heavenly Kashmir”.",
+                    "tripDistace":"",
+                    "tripTime":"",
+                    "meals":""
+                }
+                
+            ],
+            "packageType":"National",
+            "category":"Family"
+        },
+        {
+            "packageName": "HONEYMOON EXTRAVAGANZA",
+            "bgImage":"../../../assets/images/wedding.jpg",
+            "pacakgeInfo":"HAVELOCK, ROSS AND NORTH, NEIL AND PORT BLAIR ISLAND : An amazing tour that takes you from one island to the other hopping through the best destinations in the Andaman archipelago. Beach side resorts, cruise rides and various food delicacies just adds more to your honeymoon trip. Enjoy this memorable trip during your honeymoon in the Andaman islands.",
+            "days": "8",
+            "nights": "7",
+            "dayInfo":
+            [
+                {
+                    "name":"",
+                    "text":"Arrival at Port Blair in the morning/afternoon by flight and our representative will be waiting outside holding a placard with your name on it. You will be taken to your hotel where you relax and rest. Post lunch rest and later proceed to one among the most visited attraction in Andaman Islands, Cellular Jail. This jail before India's Independence hosted the most ferocious prisoners in the Andaman Islands. Today this jail stands as a national memorial. Visit to the this historic attractions and know about the rich history of the Andaman Islands. Post completion of this trip, we drop you back to your hotel.",
+                    "tripDistace":"",
+                    "tripTime":"",
+                    "meals":""
+                },
+                {
+                    "name":"",
+                    "text":"Check out from the hotel and board a ferry to Neil Island, upon reaching the island our representative will take you to your respective resort. Rest and then proceed to Bharatpur Beach and Sitapur Beach and Laxmanpur beach Firstly we cover, Bharatpur Beach. The closest white sand beach to Neil dock, Bharatpur beach. The reef here is still unexplored and travelers can avail snorkeling, glass bottom boats rides and Jet Ski rides here. Then, visit to Sitapur beach which is a perfect picturesque beach for travelers. We also visit Laxmanpur beach. Known as the sunset point at Neil Island, Laxmanpur beach is a vast open white sand beach. Post completion we drop you back to your hotel.",
+                    "tripDistace":"",
+                    "tripTime":"",
+                    "meals":""
+                },
+                {
+                    "name":"",
+                    "text":"Today we depart from Neil to Havelock Island. On arrival our representative will be waiting at the exit of the jetty. Then proceed to selected hotel to relax. After Lunch enjoy the famous Radhanagar Beach. This beach has been consistently rated as one of the best beach in Asia. Watch a mesmerizing sunset on this beach before returning back to your hotel to relax and unwind.",
+                    "tripDistace":"",
+                    "tripTime":"",
+                    "meals":""
+                },
+                {
+                    "name":"",
+                    "text":"Day at leisure. How, about relaxing in the lap of nature. Today, you can relax and spend the day enjoying white sand beaches. Additional activities such as Scuba Diving and Sea Walk can be done on this day. Candle Lit Dinner and decorated beds will be set up on this day.",
+                    "tripDistace":"",
+                    "tripTime":"",
+                    "meals":""
+                },
+                {
+                    "name":"",
+                    "text":"Well, how about exploring something underwater? Today, we begin our journey to the most visited snorkeling destination in Havelock Island, Elephant Beach. Around 30 Minutes by boat, Elephant Beach flaunts one among the best reefs in Havelock Island. The great thing is that the reef here starts at a depth of less than a meter. Upon reaching Elephant beach, we rest and relax. Later, our guide takes you to snorkel underwater where you explore the amazing reef in Elephant beach. Later we return back from Elephant beach to the Havelock dock in a boat. Our representative then attends you and drop you to board a ferry back to Port Blair where you spend your night for overnight stay.",
+                    "tripDistace":"",
+                    "tripTime":"",
+                    "meals":""
+                },
+                {
+                    "name":"",
+                    "text":"Visit the Administrative Capital Prior to Independence from where the Britishers governed the entire A & N Islands-ROSS ISLAND, A destination for Nature Walk amidst friendly Deer’s & Peacocks. Smritika Museum records the life of its political prisoners. Explore the ruins of the island from where Britishers once governed the entire Andaman and Nicobar Islands. Then begin your excursion to North Bay - Coral Island with Glass Bottom Boat Ride. Here one can explore the Coral reefs underwater. The lighthouse seen in North Bay Island trip is the same that is seen in the back of a 20 Rupee Note. Snorkeling, Scuba Diving and Sea Walk can be done here as well. Note: There is no bottled water sold on Ross Island and hence we would recommend you to carry bottled water with you and cold filtered water is available at Ross Island ticket counter at no cost. Ross Island is closed on Wednesday. If your tour falls on Wednesday we would interchange it with the previous days plan.",
+                    "tripDistace":"",
+                    "tripTime":"",
+                    "meals":""
+                },
+                {
+                    "name":"",
+                    "text":"Start your day by visiting some of the best city attractions in the Andaman Islands. Visit the famous Chatham Saw Mill, which is amongst the oldest sawmill in Asia. The saw mill is named after this island. Then proceed to Anthropological Museum that hosts the tools, the pictures and the history of the aboriginal tribes in the Andaman and Nicobar Islands. Post this proceed to the Fisheries Museum and Naval Marine museums that host varieties of fishes in Andaman Islands. Take a break and refresh yourself with varieties of delicious food options in the Andaman Islands. We then begin our journey to the famous Cellular Jail, which hosted Indias most famous political prisoners. One among them was Veer Savarkar. The Veer Savarkar Airport is named after this freedom fighter. Later in the evening we take a shopping tour to the best locations where coral artifacts are sold. Purchase gifts for your friends and family from these places. Later drop back to the hotel for overnight stay.",
+                    "tripDistace":"",
+                    "tripTime":"",
+                    "meals":""
+                },
+                {
+                    "name":"",
+                    "text":"Return home with sweet memories of these mesmerizing Islands.",
+                    "tripDistace":"",
+                    "tripTime":"",
+                    "meals":""
+                }
+                
+                
+            ],
+            "packageType":"National",
+            "category":"Family"
+        },
+        {
+            "packageName": "Pristine Leh - Ladakh",
+            "bgImage":"../../../assets/images/ladakh-1.jpg",
+            "pacakgeInfo":"Leh – Nubra – Khardungla – Pangong : Ladakh - the Land of Passes and the Roof of the World, from age-old Buddhist monasteries to exciting adventure tours, Leh-Ladakh has a lot to offer. Explore a Gompa, go mountaineering in the Himalayas, camp on the Ladakh plateau where the earth seems nearer to the sky, trek on treacherous and breathtaking routes and see rare mountain goats ascend the slopes and cranes fly overhead.",
+            "days": "8",
+            "nights": "7",
+            "dayInfo":
+            [
+                {
+                    "name":"",
+                    "text":"Arrive Leh – the capital of Ladakh, located in the state of Jammu & Kashmir. Leh is located in the Indus river valley at a crossroads of the old trading routes from Kashgar, Tibet and Kashmir. Leh-Ladakh has become one of the most visited spots in the recent times. On arrival you will be met, assisted and transferred to the hotel. The day will be completely at rest to acclimatize to the high altitude. Evening walk to Leh bazaar at a slow pace. Overnight stay in Leh.",
+                    "tripDistace":"",
+                    "tripTime":"",
+                    "meals":""
+                },
+                {
+                    "name":"",
+                    "text":"This morning, after breakfast leave for Ule, enroute visit Gurudwara Pathar Sahib, Magnetic Hill & Hall of Fame. Hall of Fame is a glorious museum constructed by Indian army, which has memorabilia, eminent defence personalities with biographies, images and weapons used during the Kargil war. On arrival, transfer to hotel. In the afternoon, visit the mesmerising Moon landscapes and the Lamayuru monastery - founded in the 10th Century, it’s the Oldest Monastery in Central Ladakh. Overnight stay in Ule.",
+                    "tripDistace":"",
+                    "tripTime":"",
+                    "meals":""
+                },
+                {
+                    "name":"",
+                    "text":"Today morning, after breakfast, drive back to Leh, enroute visit Alchi monastery & Likir monastery. Arrive and transfer to hotel. Overnight stay in Leh.",
+                    "tripDistace":"",
+                    "tripTime":"",
+                    "meals":""
+                },
+                {
+                    "name":"",
+                    "text":"This day, after an early breakfast, drive to Nubra Valley via Khardung-La Pass – the Highest Motorable pass in the World (18,380 feet). On the way you get an excellent view of great Karakoram Range. We keep driving through Syok River and reach Hundur and transfer to hotel. Overnight stay in Hundur.",
+                    "tripDistace":"",
+                    "tripTime":"",
+                    "meals":""
+                },
+                {
+                    "name":"",
+                    "text":"Today morning, after breakfast visit the Deskit Monastery and drive back to Leh. Transfer to Hotel. Overnight stay in Leh.",
+                    "tripDistace":"",
+                    "tripTime":"",
+                    "meals":""
+                },
+                {
+                    "name":"",
+                    "text":"This early morning, after breakfast leave for Pangong Lake (14,500 ft) through Changla Pass 17,350 ft. (third Highest Motorable road in the World), spend full day at the banks of Pangong Lake. This famous blue brackish Lake of Pangong is 5/6 kms wide and over 144 kms long. Return back to Leh. Overnight stay in Leh.",
+                    "tripDistace":"",
+                    "tripTime":"",
+                    "meals":""
+                },
+                {
+                    "name":"",
+                    "text":"This day, after breakfast drive up along the scenic Indus valley. Enroute stop over to visit the famous Shey Palace & Monastery - this summer palace of the erstwhile King of Leh is set upon a hill. The monastery itself has a 7.5 meter high, copper statue of a sitting Buddha, wrought in gold. This is the largest of it’s kind in the world. Later proceed to visit Thiksey Monastery - Thiksey is one of the largest and most impressive Gompas of Ladakh and provides a panoramic view of the green Indus Valley from its vantage point atop a hill. It has chambers full of statues, Stupas and colorful Tankhas. Thereafter proceed to visit Shanti Stupa, which provides wonderful views especially during sunset. The stupa was built in 1980s and is a beautiful monument decorated with colourful paintings and enshrines large statues of Buddha. Overnight stay in Leh.",
+                    "tripDistace":"",
+                    "tripTime":"",
+                    "meals":""
+                },
+                {
+                    "name":"",
+                    "text":"Today early morning transfer to airport for your flight to onward destination with sweet memories of “Pristine Ladakh”.",
+                    "tripDistace":"",
+                    "tripTime":"",
+                    "meals":""
+                }
+                
+                
+            ],
+            "packageType":"National",
+            "category":"Family"
+        }
+       
+    ]
+}

@@ -1,0 +1,433 @@
+
+.pRotate{
+    transform: rotate(45deg);
+    -ms-transform: rotate(45deg);
+    -webkit-transform: rotate(45deg);
+
+}
+.nRotate{
+    transform: rotate(-45deg);
+    -ms-transform: rotate(-45deg);
+    -webkit-transform: rotate(-45deg);
+
+}
+
+.hide{
+    opacity:0;
+}
+
+.stopScroll{
+    overflow: hidden;
+}
+.displayBlock{
+    right:0% !important;
+}
+
+.homeWrapper{
+    display: grid;
+    grid-template-rows: 100vh;
+}
+.homeScreen{
+    background: url(../../../assets/images/paper.jpg);
+    background-size:cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    -webkit-transition: 0.5s ease-in-out;
+    -moz-transition: 0.5s ease-in-out;
+    -o-transition: 0.5s ease-in-out;
+    transition: 0.5s ease-in-out;
+    display: grid;
+    grid-template-columns: 2fr 10fr 2fr;
+    grid-template-areas: 
+    ". homeContent . "
+    " . text . ";
+}
+ .homeContent {
+    grid-area: homeContent;
+    background-color: hsl(0, 0%, 13%);
+    position:absolute;
+    z-index: 10;
+    width:100%;
+    height: 7vw;
+    /* display: grid;
+    grid-template-columns: repeat(6, 1fr);
+    grid-auto-rows: 10rem */
+}
+.logo {
+    position: absolute;
+    left:50%;
+    top:3vw;
+    transform: translateX(-50%);
+    height: 8vw;
+    width: 8vw;
+    background-color: #212121;
+    border-radius: 10rem;
+    outline: none;
+}
+.logoImg{
+    position: absolute;
+    left:50%;
+    height: 11vw;
+    width: 11vw;
+    transform: translate(-35%,-15%);
+    background-image: url(../../../assets/SVG/Logo_grey.svg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    outline: none;
+
+}
+ .phoneNumber {
+    position: absolute;
+    left: 4rem;
+    top:1vw;
+    background-color: transparent;
+    align-self: center;
+    color: white;
+    font-size: 1vw;
+}
+ .email {
+    position: absolute;
+    top:1vw;
+    right: 4rem;
+    background-color: transparent;
+    align-self: center;
+    color: white;
+    font-size: 1vw;
+}
+
+.navItem{
+    display: none;
+
+}
+.cNum{
+    display: none;
+}
+.cMail{
+    display: none;
+}
+
+.cMail a{
+    display: none;
+}
+
+
+.destination {
+    position: absolute;
+    top: 4vw;
+    left: 10vw;
+    background-color: transparent;
+    text-align: center;
+    color: white;
+    font-size: 1vw;
+    cursor: pointer;
+}
+ .aboutUs {
+    position: absolute;
+    top: 4vw;
+    left: 20vw;
+    background-color: transparent;
+    text-align: center;
+    color: white;
+    font-size: 1vw;
+    cursor: pointer;
+}
+ .services {
+    position: absolute;
+    top: 4vw;
+    left: 30vw;
+    background-color: transparent;
+    text-align: center;
+    color: white;
+    font-size: 1vw;
+    cursor: pointer;
+}
+
+ .contact {
+    position: absolute;
+    top: 4vw;
+    right: 8vw;
+    background-color: transparent;
+    text-align: center;
+    color: white;
+    font-size: 1vw;
+    cursor: pointer;
+}
+.blog{
+    position: absolute;
+    top: 4vw;
+    left: 40vw;
+    background-color: transparent;
+    text-align: center;
+    color: white;
+    font-size: 1vw;
+    cursor: pointer;
+}
+.testimonials{
+    position: absolute;
+    top: 4vw;
+    right: 35vw;
+    background-color: transparent;
+    text-align: center;
+    color: white;
+    font-size: 1vw;
+    cursor: pointer;
+}
+.payment{
+    position: absolute;
+    top: 4vw;
+    right: 25vw;
+    background-color: transparent;
+    text-align: center;
+    color: white;
+    font-size: 1vw;
+    cursor: pointer;
+
+}
+.videos {
+    position: absolute;
+    top: 4vw;
+    right: 18vw;
+    background-color: transparent;
+    text-align: center;
+    color: white;
+    font-size: 1vw;
+    cursor: pointer;
+}
+
+.homeText{
+    grid-area: text;
+    width: 100%;
+    text-align: center;
+    padding-top: 10%;
+    color: white;
+    font-size:3.5vw;
+    font-family: brush;
+    text-shadow: 2px 2px 4px black;
+}
+
+/* color change and animations */
+.menu:hover, .destination:hover, .aboutUs:hover, .services:hover, .contact:hover, .blog:hover, .testimonials:hover, .payment:hover {
+    color: darkgoldenrod;
+}
+
+
+/* Media queries */
+@media screen and  (min-width: 813px) and (max-width:1440px) {
+    .homeScreen{
+        background: url(../../../assets/images/paper.jpg);
+        background-size:cover;
+        background-position: center;
+        background-repeat: no-repeat;
+        transition: 0.5s ease-in-out;
+        display: grid;
+        grid-template-columns: 1fr;
+        grid-template-areas: 
+        "homeContent"
+        "text";
+    }
+
+}
+
+
+@media only screen  and (min-width: 300px)  and (max-width: 812px) { 
+
+    .homeWrapper{
+        display: grid;
+        grid-template-rows: 100vh;
+    }
+    .homeScreen{
+        background: url(../../../assets/images/paper.jpg);
+        background-size:cover;
+        background-position: center;
+        background-repeat: no-repeat;
+        transition: 0.5s ease-in-out;
+        display: grid;
+        grid-template-columns: 1fr;
+        grid-template-areas: 
+        "homeContent "
+        "text";
+    }
+        .homeContent {
+        grid-area: homeContent;
+        background-color: hsl(0, 0%, 13%);
+        position:absolute;
+        z-index: 10;
+        width:100%;
+        height: 7rem;
+    }
+    .logo {
+        position: absolute;
+        left:50%;
+        top: 1rem;
+        transform: translateX(-50%);
+        height: 11rem;
+        width: 11rem;
+        background-color: #212121;
+        border-radius: 10rem;
+        outline: none;
+    }
+    
+    .logoImg{
+        position: absolute;
+        left:50%;
+        height: 15rem;
+        width: 15rem;
+        transform: translate(-35%,-15%);
+        background-image: url(../../../assets/SVG/Logo_grey.svg);
+        background-repeat: no-repeat;
+        background-position: center;
+        background-size: cover;
+        outline: none;
+    
+    }
+
+    .mobileMenu{
+        display: none;
+        
+    }
+    .phoneNumber{
+        display: none;
+    }
+    .email{
+        display: none;
+    }
+
+    .email a{
+        display: none;
+    }
+
+
+
+
+
+    .menu{
+        position: absolute;
+        background-color: transparent;
+        right: 0.3rem;
+        width: 6rem;
+        height: 5rem;
+        top: 1rem;
+        z-index: 2;
+    }
+
+    .menuBtn{
+        position: fixed;
+        background-color: transparent;
+        right: 0.8rem;
+        width: 4rem;
+        height: 5rem;
+        top: 2rem;
+    }
+
+    .firstBar{
+        position: relative;
+        float: left;
+        background-color: orange;
+        border-radius: 2rem;
+        width: 100%;
+        height: 0.5rem;
+        margin-bottom: 0.5rem;
+        transition: 0.25s;
+    }
+    .secondBar{
+        position: relative;
+        float: left;
+        background-color: orange;
+        border-radius: 2rem;
+        width: 100%;
+        height: 0.5rem;  
+        margin-bottom: 0.5rem;
+        transition: 0.25s;
+    }
+    .thirdBar{
+        position: relative;
+        background-color: orange;
+        margin-top: 1rem;
+        border-radius: 2rem;
+        width: 100%;
+        height: 0.5rem;  
+        transition: 0.25s;                    
+    }
+    .fourthBar{
+        position: relative;
+        float: left;
+        background-color: orange;
+        border-radius: 2rem;
+        width: 100%;
+        height: 0.5rem;  
+        transition: 0.25s;
+    }
+    .menuScreen{
+        position: fixed;
+        width: 100vw;
+        height: 100vh;
+        background-color:black;
+        right:-110%;
+        transition: 0.20s ease-in-out;
+        padding-top: 16vh;
+        padding-left: 4rem;
+    }
+
+    .navItem{
+        display: block;
+        color:white;
+        font-weight: bolder;
+        height: 7vh;
+        font-size:2rem;
+        line-height: 7vh;
+    }
+    .cNum{
+        display: block;
+        position: absolute;
+        color:orange;
+        font-weight: bolder;
+        height: 6vh;
+        font-size:1.5rem;
+        line-height: 6vh;
+        bottom: 6rem;
+
+    }
+    .cMail{
+        display: block;
+        position: absolute;
+        color:orange;
+        bottom: 2rem;
+        font-weight: bolder;
+        height: 6rem;
+        font-size:1.5rem;
+        line-height: 6rem;
+
+    }
+
+    .cMail a{
+        display: block;
+        position: absolute;
+    }
+    
+
+    
+    .phoneNumber {
+        position: relative;
+        float: left;
+    }
+    .email {
+        position: relative;
+        float: left;
+    }
+    
+    
+    
+    .homeText{
+        grid-area: text;
+        width: 100%;
+        text-align: center;
+        padding-top: 10%;
+        color: white;
+        font-size:3.5vw;
+        font-family: brush;
+        text-shadow: 2px 2px 4px black;
+    }
+    
+
+}

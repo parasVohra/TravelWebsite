@@ -1,0 +1,38 @@
+/* You can add global styles to this file, and also import other style files */
+html {
+    font-size: 10px;
+    overflow-x: hidden;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    -webkit-font-smoothing: antialiased;
+}
+
+@font-face {
+    font-family: chivo;
+    src: url(./assets/fonts/Chivo-Regular.ttf) format("truetype");
+
+}
+
+@font-face {
+    font-family: chivoLight;
+    src: url(./assets/fonts/Chivo-Light.ttf) format("truetype");
+
+}
+@font-face {
+    font-family: brush;
+    src: url(./assets/fonts/brush.ttf) format("truetype");
+
+}
+
+*{
+    font-family: chivo;
+    outline: none;
+    cursor: pointer;
+}

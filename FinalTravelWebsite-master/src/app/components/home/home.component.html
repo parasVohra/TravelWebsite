@@ -1,0 +1,44 @@
+<div class="homeWrapper">
+
+    <div class="homeContent">
+        <div class="logo" routerLink="/"><div class="logoImg"></div></div>
+        <div class="phoneNumber">+91 9873576566</div>
+        <div class="email"><a href="mailto:info@explorersgetaway.com" style="text-decoration:none;color:white">info@explorersgetaway.com</a></div>
+        <div class="menu" (click)="showNavBar()">
+            <div class="menuBtn">
+                <div class="firstBar"></div>
+                <div class="secondBar"></div>
+                <div class="thirdBar"></div>
+                <div class="fourthBar"></div>
+            </div>
+        </div>
+        <div class="menuScreen">
+          <div class="navItem" routerLink="/package-list" (click)="sendAllPackages()">DESTINATIONS</div>
+          <div class="navItem" id = "contentScreen" routerLink="/" (click)="scrollToThis($event)" >ABOUT US</div>
+          <div class="navItem" id = "serviceWrapper" routerLink="/" (click)="scrollToThis($event)" >SERVICES</div>
+          <div class="navItem" (click)="openYoutube()">VIDEOS</div>
+          <div class="navItem">BLOG</div>
+          <div class="navItem">TESTIMONIALS</div>
+          <div class="navItem" id = "footerWrapper" routerLink="/" (click)="scrollToThis($event)">CONTACT US</div>
+          <div class="navItem">PAY NOW</div>
+          <div class="cNum">+91 9873576566</div>
+          <div class="cMail"><a href="mailto:info@explorersgetaway.com" style="text-decoration:none;color:white">info@explorersgetaway.com</a></div>
+        </div>
+          <div class="mobileMenu">
+            <div class="destination Option" routerLink="/package-list" (click)="sendAllPackages()">DESTINATIONS</div>
+            <div class="aboutUs Option" routerLink="/" id = "contentScreen" (click)="scrollToThis($event)">ABOUT US</div>
+            <div class="services Option" routerLink="/"  id = "serviceWrapper" (click)="scrollToThis($event)" >SERVICES</div>
+            <div class="videos Option" (click)="openYoutube()">VIDEOS</div>
+            <div class="blog Option">BLOG</div>
+            <div class="testimonials Option">TESTIMONIALS</div>
+            <div class="contact Option" id = "footerWrapper" routerLink="/" (click)="scrollToThis($event)">CONTACT US</div>
+            <div class="payment Option">PAY NOW</div>
+          </div>
+      </div>
+  <div class="homeScreen" >
+    
+    <!-- <div class="homeText">
+        NEVER <br>  Stop <br> EXPLORING 
+    </div> -->
+  </div>
+</div>

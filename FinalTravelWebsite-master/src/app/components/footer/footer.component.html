@@ -1,0 +1,80 @@
+<div class="footerWrapper">
+    <div class="footerScreen">
+        <div class="infoBox">
+            <form action="test.php" method="post">
+    
+            <div class="input-group">
+                <label>Name</label>
+                <input type="text" class="Name" name="name">
+    
+            </div>
+            <div class="input-group">
+                <label>Enter mobile no.</label>
+                <input type="text" class="PhoneNumber" name="phone">
+    
+            </div>
+            <div class="input-group">
+                <label>Email Id</label>
+                <input type="email" class="Email" name="email">
+    
+            </div>
+            <div class="input-group">
+                <label>Origin</label>
+                <input type="text" class="Origin" name="origin">
+    
+            </div>
+            <div class="input-group">
+                <label>Destination</label>
+                <input type="text" class="Destination" name="destination">
+    
+            </div>
+            <div class="input-group">
+                <label>Month of travel</label>
+                <input type="text" class="TravelMonth" name="month">
+    
+            </div>
+            <div class="submitButton">
+                    <input type="submit" class="sendButton" value="Send Inquiry"> 
+            </div>
+        </form>
+        </div>
+        <div class="addressBox">
+            <h2 style="color:orange">CONTACT US</h2>
+            Explorer's Getaway<br>
+            B-6, Ground Floor<br>
+             Kalkaji, New Delhi, Delhi 110019<br>
+              India<br>
+              <h3 style="color:orange">Branch office Address</h3>
+            V.P.O Naggar <br>
+            Opposite Government Senior Secondary School<br>
+             District Kullu<br> 
+             Himachal Pradesh<br>
+             India <br>
+             Pincode 175130<br><br>
+             <p style="color:orange">Phone</p>
+             +91 9873576566<br>
+             <p style="color:orange">Email</p>
+             info@explorersgetaway.com
+        </div>
+        <div class="menuOptionBox">
+            <div class="destination Option" routerLink="/package-list" (click)="sendAllPackages()">DESTINATIONS</div>
+            <div class="aboutUs Option" id = "contentScreen" routerLink="/" (click)="scrollToThis($event)">ABOUT US</div>
+            <div class="services Option" id = "serviceWrapper" routerLink="/" (click)="scrollToThis($event)">SERVICES</div>
+            <div class="blog Option">BLOG</div>
+            <div class="testimonials Option">TESTIMONIALS</div>
+            <div class="contact Option" id = "footerWrapper" routerLink="/" (click)="scrollToThis($event)">CONTACT US</div>
+            <div class="payment Option">PAY NOW</div>
+            <div class="videos Option">VIDEOS</div>
+        </div>
+
+        <div class="socialMedia">
+            <div class="social" >
+                <a href="https://www.instagram.com/explorersgetaway/" target="_blank"><img class="insta Icon" src="../../../assets/images/insta.png"></a>
+            <a href="https://www.facebook.com/explorersgetaway/" target="_blank"><img class="facebook Icon" src="../../../assets/images/facebook.png"></a>
+            <a href="https://www.youtube.com/channel/UC8c2VCmIyK8V4QkO658f-WA" target="_blank"><img class="youtube Icon" src="../../../assets/images/youtube.png"></a>
+            </div> 
+            
+        </div>
+    </div>
+</div>
+

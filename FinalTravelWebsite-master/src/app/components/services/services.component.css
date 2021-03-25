@@ -1,0 +1,141 @@
+.serviceWrapper{
+    display: grid;
+    grid-template-columns: 2fr 8fr 2fr;
+    margin-top: 3rem;
+    grid-template-areas: 
+    ". service . ";
+}
+.serviceContainer {
+    display: grid;
+    grid-area: service;
+    grid-template-columns: repeat(5, 1fr);
+    grid-auto-rows: 20rem;
+    grid-gap: 3rem;
+    padding: 0rem 10rem 10rem 10rem;
+    background-color: white;
+    grid-template-areas: 
+    "title  visa hotel cruise currency "
+    " ticket carRental inbound group international  ";
+
+
+}
+
+.serviceTitle{
+    grid-area: title;
+    font-size: 3rem;
+    text-align: center;
+    line-height: 20rem;
+    text-shadow: 2px 2px 4px grey;
+    background-color: #212121;
+}
+
+ .Service {
+    grid-area: service;
+    text-align: center;
+    font-size: 1.5rem;
+    box-shadow: 4px 4px 12px black;
+    line-height: 20rem;
+    background-size: cover;
+    transition: all 300ms ease-in-out;
+}
+.serviceCation{
+    font-size: 2rem;
+    text-align: center;
+    color: white;
+    text-shadow: 2px 2px 4px black;
+}
+
+.international{
+    grid-area: international;
+    background-image: url(../../../assets/images/services/outbound.jpg);
+    
+}
+.visa{
+    grid-area: visa;
+    background-image: url(../../../assets/images/services/visa.jpg);
+    
+
+}
+.inbound{
+    grid-area: inbound;
+    background-image: url(../../../assets/images/services/inbound.jpg);
+    
+
+}
+.carRental{
+    grid-area: carRental;
+    background-image: url(../../../assets/images/services/car.jpg);
+    
+
+}
+.hotel{
+    grid-area: hotel;
+    background-image: url(../../../assets/images/services/hotel.jpg);
+    
+
+}
+.currency{
+    grid-area:currency;
+    background-image: url(../../../assets/images/services/currency.jpg);
+    
+}
+.group{
+    grid-area: group;
+    background-image: url(../../../assets/images/services/group.jpg);
+    
+}
+.cruise{
+    grid-area: cruise;
+    background-image: url(../../../assets/images/services/cruise.jpg);
+    
+}
+.ticket{
+    grid-area: ticket;
+    background-image: url(../../../assets/images/services/ticket.jpg);
+    
+}
+
+.Service:hover{
+    padding-top: 4rem;
+   
+}
+@media screen and (max-width:1440px) {
+    .serviceWrapper{
+        display: grid;
+        grid-template-columns: 1fr;
+        grid-template-areas: 
+        "service";
+    }
+
+}
+
+@media only screen  and (min-width: 300px)  and (max-width: 812px) {
+    .serviceWrapper{
+        display: grid;
+        grid-template-columns: 1fr;
+        grid-template-areas: 
+        "service";
+    }
+    .serviceContainer {
+        display: grid;
+        grid-area: service;
+        grid-template-columns:  1fr;
+        grid-auto-rows: 20rem;
+        grid-gap: 3rem;
+        padding: 5rem 2rem 10rem 2rem;
+        background-color: white;
+        grid-template-areas: 
+        "title"
+        "cruise"
+        "ticket"
+        "carRental "
+        "group "
+        "visa"
+        "hotel"
+        "inbound"
+        "currency"
+        "international";
+    
+    
+    }
+}

@@ -1,0 +1,171 @@
+
+.focused{
+    font-size: 1rem !important;
+   /* line-height: 0.8rem !important;*/
+    transform: translateY(-1.5rem);
+    color: orange !important;
+    background-color: transparent !important;
+}
+
+.footerWrapper{
+    display: grid;
+    grid-template-columns: 2fr 8fr 2fr;
+    background-color: #212121;
+    grid-template-areas: 
+    ". footer . ";
+}
+.footerScreen {
+    display: grid;
+    grid-area: footer;
+    background-color: #212121;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-rows: 50rem 5rem;
+    padding: 4rem;
+    grid-template-areas: 
+    "info address menuOp "
+    ". social .";
+}
+.footerScreen .infoBox {
+    display: grid;
+    grid-area: info;
+    grid-template-columns: 1fr;
+    grid-auto-rows: 5rem;
+    grid-gap: 1rem;
+    padding-top: 1rem;
+}
+ .input-group {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-auto-rows: 2.5rem;
+}
+.input-group input[type=text],
+.input-group input[type=email] {
+    grid-column-start: 1;
+    grid-column-end: 3;
+    grid-row-start: 1;
+    grid-row-end: 3;
+    background: none;
+    border: none;
+    border-bottom: .2rem solid black;
+    font-size: 1.6rem;
+    color: white;
+    padding-top: 1rem;
+    line-height: 1rem;
+    background-color: transparent;
+}
+.input-group input[type=text]:focus,
+.input-group input[type=email]:focus {
+    outline: none;
+    line-height: 1rem;
+    background-color: transparent !important
+} 
+
+input:-webkit-autofill, textarea:-webkit-autofill, select:-webkit-autofill {
+    background-color:transparent !important;
+    background-image: none;
+    color: rgb(0, 0, 0);
+}
+ .input-group label {
+    grid-column-start: 1;
+    grid-column-end: 13;
+    grid-row-start: 1;
+    grid-row-end: 3;
+    color: white;
+    font-size: 2rem;
+    line-height: 5rem;
+    pointer-events: none;
+    transition: .25s;
+}
+.addressBox{
+    grid-area: address;
+    font-size: 1.5rem;
+    color:white;
+}
+
+.menuOptionBox{
+    grid-area: menuOp;
+    padding: 3rem;
+}
+
+.Option{
+    font-size: 1.5rem;
+    color: white;
+    line-height: 5rem;
+
+}
+.destination:hover, .aboutUs:hover, .services:hover, .contact:hover, .sendButton:hover, .videos:hover, .blog:hover, .testimonials:hover, .contact:hover, .payment:hover {
+    color: darkgoldenrod;
+}
+
+.submitButton{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    padding-top: 2rem;
+}
+.sendButton{
+    grid-column-start: 1;
+    grid-column-end: 3;
+    background-color: white;
+    color: black;
+    font-size: 1.4rem;
+    border-radius: 5px;
+    text-align: center;
+    line-height: 3rem;
+    border:none;
+}
+
+
+.socialMedia{
+    grid-area: social;
+}
+.Icon{
+    width: 3rem;
+    height: 3rem;
+    margin-right: 3rem;
+    margin-top: 1rem;
+}
+.social{
+   
+}
+
+@media screen and (max-width:1440px) {
+    .footerWrapper{
+        display: grid;
+        grid-template-columns: 1fr;
+        background-color: #212322;
+        grid-template-areas: 
+        "footer ";
+    }
+
+}
+@media only screen  and (min-width: 300px)  and (max-width: 812px) {
+    .footerWrapper{
+        display: grid;
+        grid-template-columns: 1fr;
+        background-color: #212322;
+        grid-template-areas: 
+        "footer ";
+    }
+    .footerScreen {
+        display: grid;
+        grid-area: footer;
+        background-color: #212322;
+        grid-template-columns: 1fr;
+        grid-template-rows: 50rem 40rem 45rem;
+        padding-top: 4rem;
+        padding-left: 5rem;
+        grid-template-areas: 
+        "address"
+        "info"  
+        " menuOp "
+        "social";
+    }
+    .footerScreen .infoBox {
+        display: grid;
+        grid-area: info;
+        grid-template-columns: 1fr;
+        grid-auto-rows: 5rem;
+        grid-gap: 1rem;
+        padding-top: 1rem;
+    }
+}

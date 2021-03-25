@@ -1,0 +1,56 @@
+<app-home></app-home>
+<div class="tourDetailWrapper">
+  <div class="tourDetailContainer">
+    <div class="tourTitle">{{filterData.packageName}}</div>
+    <div class="tourInfo">{{filterData.pacakgeInfo}}</div>
+    <div class="tourDetail" *ngFor='let data of filterData.dayInfo; let i = index' [attr.data-index]="i">
+       <div class="dayDis"><div class="tourDays">Day {{i+1}} </div>
+       <div class="tourDayName"> {{data.name}}</div></div> 
+        <div class="tourDayText">{{data.text}}</div>
+        <div class="tourDayMeals">{{data.meals}}</div>
+    </div>
+    <div class="inquiryBox">
+      <div class="infoBox">
+
+        INQUIRE
+        <form action="test.php" method="post">
+
+        <div class="input-group">
+            <label>Name</label>
+            <input type="text" class="Name" name="name">
+
+        </div>
+        <div class="input-group">
+            <label>Enter mobile no.</label>
+            <input type="text" class="PhoneNumber" name="phone">
+
+        </div>
+        <div class="input-group">
+            <label>Email Id</label>
+            <input type="email" class="Email" name="email">
+
+        </div>
+        <div class="input-group">
+            <label>Origin</label>
+            <input type="text" class="Origin" name="origin">
+
+        </div>
+        <div class="input-group">
+            <label>Destination</label>
+            <input type="text" class="Destination" name="destination">
+
+        </div>
+        <div class="input-group">
+            <label>Month of travel</label>
+            <input type="text" class="TravelMonth" name="month">
+
+        </div>
+        <div class="submitButton">
+                <input type="submit" class="sendButton" value="Send Inquiry"> 
+        </div>
+    </form>
+    </div>
+    </div>
+  </div>
+</div>
+<app-footer></app-footer>
